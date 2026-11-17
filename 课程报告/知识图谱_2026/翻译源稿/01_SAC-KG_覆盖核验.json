@@ -1,0 +1,38 @@
+{
+  "paper": "01_SAC-KG",
+  "source_page_count": 16,
+  "source_page_markers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "marker_coverage_complete": true,
+  "status": "中文内容覆盖初译，未逐句终审",
+  "reference_policy": "英文参考文献保留原页影像",
+  "figures": "完整原页图，中文图注；图内英文标签/界面保留",
+  "unresolved": [
+    "作者年份文内引文未逐个转录；原文参考文献仍完整保留在影像中",
+    "图内英文文字未全部另做逐词中文索引",
+    "尚未进行逐句翻译对齐审校和图表数值独立二次审核"
+  ],
+  "assets": "assets/01",
+  "cross_review_revision": {
+    "citations_restored": "正文及附录对应段落恢复作者年份引文",
+    "figures_3_4_6": "逐项标签中文表已补并对照原图",
+    "table_1_7_discrepancy_note": true,
+    "independent_full_sentence_review": false
+  }
+}

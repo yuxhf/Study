@@ -1,0 +1,921 @@
+{
+  "files": [
+    {
+      "path": "课程报告/知识图谱_2026/README.md",
+      "bytes": 1993,
+      "sha256": "e8eb56ccd63d42af29290389bc3f06978629326a0962583eecaf5cc33af13109"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/下载论文.py",
+      "bytes": 2260,
+      "sha256": "2049bfe598325d86e7a128c8a52583e96ae098134723eaf5408303c6f682c17a"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/中文翻译PDF/README.md",
+      "bytes": 440,
+      "sha256": "aa428b34561b91108dcb0db5079f1239513a44edf80214cc6e3fb8a52a30870e"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/交付说明_20261117.md",
+      "bytes": 3436,
+      "sha256": "3257eec7c6ea83edeb074372a3c56c49cb7e9fbdd583c0d62b380242957dfd15"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/原文PDF/README.md",
+      "bytes": 2386,
+      "sha256": "b017f2656a2a5492272d72a52b69a885423bb93b251adabd7b77b6d48982a63e"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/报告成稿/assets/method_map.png",
+      "bytes": 104105,
+      "sha256": "ec3eebb673368271ec4e4155dbdd8feb010a38153284dd00249567be18c54118"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/报告成稿/assets/research_framework.png",
+      "bytes": 129450,
+      "sha256": "f652d8d3a61e3f9cc3b84d4ecd04898e3be9568ba47520396678fd7fd15d1d1c"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/报告成稿/知识图谱课程报告.md",
+      "bytes": 30753,
+      "sha256": "a0032bc5dcb020c5e9cb2e9a530426ac212b21941380f8861bdb1ee6d40014fc"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/报告框架.md",
+      "bytes": 4292,
+      "sha256": "62b729bfcfdc32bb04557df2359bdad991d7c5a32047d067a7971f35c05c37dd"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/文献清单.md",
+      "bytes": 3337,
+      "sha256": "e7446ec45edc1fd7c3a85b9449e5f55edbf5de232ac7c3eb071ed09dbf19629d"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/构建与核验/build_pdfs.py",
+      "bytes": 9902,
+      "sha256": "adb319e8f08e534e28cf37bb2924882bd985b99a28a404b3d8fc533dc5f427a6"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/构建与核验/draw_framework.py",
+      "bytes": 2126,
+      "sha256": "7a7017b2cf5b394928c08add6eb519260a9e32bb80d36ca85ba3ae6a9321007c"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/构建与核验/equations_gretriever.json",
+      "bytes": 1351,
+      "sha256": "05ac82a26a7d8e2205aa2ee8614eeddc67806c1851a8ba5c04de07d866c0e0cc"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/构建与核验/extract_sources.py",
+      "bytes": 761,
+      "sha256": "ad18ed72b1471a3b0a4ec3981ee16d34ab46783470346a78be1043b87ce4b11f"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/构建与核验/final_coverage_audit.json",
+      "bytes": 1244,
+      "sha256": "f629c470e83754ba29e5b01a40c925a9088b3d0009c1795365a03d7d5f3c8f33"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/构建与核验/package_delivery.py",
+      "bytes": 2901,
+      "sha256": "8bab275715940fcd3c16d84289afa544b1aeb5553c78e871eb56a7681e8b33b7"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/构建与核验/pdf_manifest.json",
+      "bytes": 866,
+      "sha256": "fee7d3b432caf0ad5994ab84114f0ce307743c2aed99c4af1169ca8ed48e4da8"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/构建与核验/pdf_qa.json",
+      "bytes": 1085,
+      "sha256": "7bd6ec30a3f0347e4983de057a7bb4c4b307c7dbd37d0dc1dfb2392a3bfba151"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/构建与核验/prepare_github.py",
+      "bytes": 6572,
+      "sha256": "b4741c4e82edb47d0b7c373adf04fc15d80057d9111b31001d7fe00de5e0c294"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/构建与核验/qa_pdfs.py",
+      "bytes": 1534,
+      "sha256": "7f185014a241eb7eba480751a1c026dee5b741bcf95e587b6572db04e437aab3"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/构建与核验/交付文件校验.json",
+      "bytes": 1317,
+      "sha256": "9547e61fdd541eda0237cf0914de0ed62780e0d3cc4598564042180fe0ce7f73"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/构建与核验/审校修订_HippoRAG2.py",
+      "bytes": 3695,
+      "sha256": "85d3d05825c47e8e16815cf27e802b83d94806a74eb215b25d2282d01e923a44"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/构建与核验/审校修订_SAC-KG.py",
+      "bytes": 5365,
+      "sha256": "e3297cd9a17d6176dee7dd6a015529fec54e43468b4d3c1bb64b84027e41ea21"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/构建与核验/审校提示_HippoRAG2.py",
+      "bytes": 1609,
+      "sha256": "b871c3da895f72687c4d386c8223ad8870fca340fce9b8357f0a36af74ea55a3"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/构建与核验/校核记录_交叉复核.md",
+      "bytes": 6421,
+      "sha256": "0b7919918e1ff8a1473d3603a626a7c2871129e40573a158a936d7f4b41ea275"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/构建与核验/终审_FastToG.md",
+      "bytes": 2257,
+      "sha256": "44f75cf4f4bd7a8a8b434358aa23b587af05c52a09a951a77edc47ef38217c78"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/构建与核验/终审_G-Retriever.md",
+      "bytes": 6181,
+      "sha256": "d5ad921e0fe1338bc97bde0fff1945848beb19f138642423b73ae4b4878e696d"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/构建与核验/终审_HippoRAG2.md",
+      "bytes": 5777,
+      "sha256": "c4589352ccd447736365803ccf77edaf7cd103da24ada8a327edb500e55088ca"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/构建与核验/终审_KGP.md",
+      "bytes": 6419,
+      "sha256": "6baede56ab386c62f6f924bbb1f1db7fab8066dd786f9eab00b03b8f0109380d"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/构建与核验/终审_SAC-KG.md",
+      "bytes": 5293,
+      "sha256": "d0f5a9b86a1e833f1f61a3e04c531f6a04c7c3b3fa81dbf3378dd34fb5cc9806"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/构建与核验/终审_综述.md",
+      "bytes": 1825,
+      "sha256": "9dd6c19dc843224c1ff663110ac13c69de76f07e52f2ac1b22b431a268fb1c0a"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/构建与核验/记录审校_HippoRAG2.py",
+      "bytes": 6540,
+      "sha256": "0b44d2efbb2e720e71e18405f7075248b7a5692c9231a6f77019eb6c0b222989"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/构建与核验/记录审校_SAC-KG.py",
+      "bytes": 5806,
+      "sha256": "c2d9e0ab16e119fc86535ca8a50ec83c3b15e9c25225ec1d9ab78302e001583a"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/01_02_精读核验.md",
+      "bytes": 3847,
+      "sha256": "33c88608a471c29f1362ded5fd7feb47a258add83effd3d40e1efc3265e7c382"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/01_SAC-KG.md",
+      "bytes": 44240,
+      "sha256": "4e1f0be7a233c3f57e9a9d99523812080b09b9e8c4ccfd84de1e7645eb9dea27"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/01_SAC-KG_覆盖核验.json",
+      "bytes": 1023,
+      "sha256": "addce33af69113e51a8fe1348ce63ef9415e006b25df3d68f7744a2de8db7655"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/02_KGP.md",
+      "bytes": 83243,
+      "sha256": "a7d5124658ea6626fc9dcd2da61eefee63d92b72543bf68f303aec332b45b750"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/02_KGP_覆盖核验.json",
+      "bytes": 1807,
+      "sha256": "5206358ab28bbe5d500e4bdda735f3c839e61476e44b112626f3e32312379352"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/03_crossfix.py",
+      "bytes": 901,
+      "sha256": "4ae6dd2da549ea1ae3cc564fbfedd7b160dfca129fc483cda53d6173eb7d53fd"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/03_G-Retriever.md",
+      "bytes": 67995,
+      "sha256": "f5bbe684f83214ab89930b857b8a15f6a4325ed6760d6b5d92d3bdb351d81fa1"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/03_G-Retriever_独立交叉审校15-25.md",
+      "bytes": 3028,
+      "sha256": "44e9a5baec950f1dbbe46cb4177d24d7cc5886815b9916c10b00e797798739a3"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/03_G-Retriever_精读核验.md",
+      "bytes": 3445,
+      "sha256": "0bd301971261c919899295fdf11cd7f4fccdb130d6867481e6fe275586ce3c3b"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/03_G-Retriever_覆盖核验.json",
+      "bytes": 8029,
+      "sha256": "ad25ed821b1230ed4557ce7b0098856e3d0b885a6270abe137e532a09ce960a8"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/04_05_精读与覆盖核验.md",
+      "bytes": 7041,
+      "sha256": "9d568499db8f2af53f7c1fe6c0de36767916e78bf2ca7e73287c6bfeefeec025"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/04_05_覆盖核验.json",
+      "bytes": 673,
+      "sha256": "4885fc4c4d7567b6aced9ab2b162e708ab1871d0431470dec4fe5211c3eb138e"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/04_FastToG.md",
+      "bytes": 30670,
+      "sha256": "1ec3a4b97444aa27732be346d382f89731a951aa31bf044886c23179e875725f"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/05_HippoRAG2.md",
+      "bytes": 42284,
+      "sha256": "4b9bba05191ad572e82b97cbeb75aee497665f27b83ce5186d895af360e7bfe8"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/01/figure-01.png",
+      "bytes": 83447,
+      "sha256": "834a21b1e6792f41eeeed8b85ec8dd60ed5e200a6de371019e3fd10a32fdcbd2"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/01/figure-02.png",
+      "bytes": 75751,
+      "sha256": "a8cab61995151cdadae6b6b51eafcb6aacb0a5916cfe01c02c7aa6a40272bd32"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/01/figure-03.png",
+      "bytes": 47161,
+      "sha256": "52262973627ca166c488a038f46ff84a1da8fd709c44f37c1987781880279730"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/01/figure-04.png",
+      "bytes": 46621,
+      "sha256": "643cf54eba22f81403fb3ca4af4a356c76a0a3feb1fe6b99585109679577280e"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/01/figure-05.png",
+      "bytes": 178422,
+      "sha256": "4a0fa93e5f58e4edd5397f5dbaa3d942fa0d77a5f27274ec44d4297f499cd6d7"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/01/figure-06.png",
+      "bytes": 54788,
+      "sha256": "15bb11df0416f82235c8b10bc839760d6f6e1894a074c59b7b99b1b7a3374eba"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/01/page-01.png",
+      "bytes": 463993,
+      "sha256": "ea334415e958d79d1be365ee4e1eb0fde03e2428d4f11c1635958952cd9e38b3"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/01/page-02.png",
+      "bytes": 403636,
+      "sha256": "ec3e9dfbc488b0eb660a7c27582e5bd5a141a1e8055b1be0bf34b62d4dd999e4"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/01/page-03.png",
+      "bytes": 472074,
+      "sha256": "d97ec8ae94a3f733ce2429ca29751323f69d9ba34254b3e8268a4808d4da9e71"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/01/page-04.png",
+      "bytes": 428204,
+      "sha256": "deddbb3a9968c813282a897310e3a35e584e7d683cfb843641266341eb298b5d"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/01/page-05.png",
+      "bytes": 388718,
+      "sha256": "b6dc4cbae95b71cb7e6e4d119faaabd1ef61cb4f9aad7c4a21f6b431c6cf1d7f"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/01/page-06.png",
+      "bytes": 421712,
+      "sha256": "04abe0c7978019416a753065cd7c8bb857b37ea8f950169658c2c582f5780fc2"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/01/page-07.png",
+      "bytes": 463485,
+      "sha256": "1b00a8c589f6e10e86031b5b492a7f9ecc09c96b6ea589558ee52a04331a329c"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/01/page-08.png",
+      "bytes": 444866,
+      "sha256": "adbeefa3b4d84c228e6772410337aafddc56edfebe962db74e0fa911f90a2916"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/01/page-09.png",
+      "bytes": 489183,
+      "sha256": "cae8f6f7d8addda3dd9e03203b550d38c2114ce0a0e909ccfd641b08842c6b55"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/01/page-10.png",
+      "bytes": 477717,
+      "sha256": "f1945d02b925129ab32b6b50bfede597d8fe00c8432f8e13ba3512536d39a060"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/01/page-11.png",
+      "bytes": 297224,
+      "sha256": "2bc8f4cf7edf606f09f3fc510f2403cf3bee0648e151a31c40c851a5e76f3a09"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/01/page-12.png",
+      "bytes": 481280,
+      "sha256": "970530ccddba5271d12b9a892c3b8293d92d82fa49364866c0e88a559743aabd"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/01/page-13.png",
+      "bytes": 318726,
+      "sha256": "9e458b37d99ec6e562ac16295dc2d5f71f824d9716288481e64f671eae541a29"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/01/page-14.png",
+      "bytes": 435149,
+      "sha256": "76d416652f7858d2fdd39fd4650423b9647e5f460558ac4b1ad707b2e4bf524c"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/01/page-15.png",
+      "bytes": 334360,
+      "sha256": "715823078480c299aeaac82ec4e26f5ec5885649c92d7ed3a87ea05535092e5d"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/01/page-16.png",
+      "bytes": 228141,
+      "sha256": "050d28d3f3120f5379e94454d8c450b3702942c9e806c07835eb60c399e57cd7"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/02/detail-14.png",
+      "bytes": 232511,
+      "sha256": "6e4a931988335dc4e132233375133fca29401c0bf8b1138186e4d0448c8e0a96"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/02/detail-15.png",
+      "bytes": 567029,
+      "sha256": "e167261fdf46d69579dfc4d323df009561af52e3fcfbf6b68b81fdb196771475"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/02/detail-18.png",
+      "bytes": 236178,
+      "sha256": "7bdaf1d1b5269acb6d7245e4c6ddf1a197abf9054cc8f1954905a76c3c1b07ee"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/02/figure-01.png",
+      "bytes": 66661,
+      "sha256": "df10cf08cbb270598f8ce4fe4b88b7a5570ea453757e08aa59be050f10e1337c"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/02/figure-02.png",
+      "bytes": 574180,
+      "sha256": "4eaf4e3201f5e1f3be58b713b776c8dbd2b46d147f09862b45f681f40cb67f9c"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/02/figure-03.png",
+      "bytes": 394604,
+      "sha256": "4fe5f518d49cd68775dab3ba2e9fd5b8165a8e8e52c8d272dcef2c61e60592f2"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/02/figure-04.png",
+      "bytes": 767331,
+      "sha256": "490129f581a8b91d9e7fb630f2e032fccfea18add899b2c8efc5205fcc08f54c"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/02/figure-05.png",
+      "bytes": 76774,
+      "sha256": "451562b490df5b5c577c678d5213d0bf107d9fb5714fa14351ed9aef2ae3be4d"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/02/figure-06.png",
+      "bytes": 162693,
+      "sha256": "80291dce18748951a89d209a0466a026f33362403983d934ce554452bb5e2b92"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/02/figure-07.png",
+      "bytes": 1085021,
+      "sha256": "aa46dbe07e417251b5972ad8a8a3434bf2ebdb3000f03ee76f070aaa5406329f"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/02/figure-08.png",
+      "bytes": 293800,
+      "sha256": "3f784980a68a1a7f043cdab2461d4cc8666daa9c064e694eed652ec71e14d693"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/02/figure-09.png",
+      "bytes": 70970,
+      "sha256": "ec856fc206a4edf66a91faee7cbbe3dda8ac9e29e8db04a393f74cf8d60fe46d"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/02/figure-10.png",
+      "bytes": 154468,
+      "sha256": "a92ae6b7a4bb83d4c69c941e9e8455910fec149a567747ace1141414213bf338"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/02/figure-11.png",
+      "bytes": 285229,
+      "sha256": "d83d04615f89da35d965e9d3a111fecfe246df7d35c87a089b5b7eaf2c1e2537"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/02/figure-12.png",
+      "bytes": 510775,
+      "sha256": "4c45ed1127c4218cfda9e1b38e952ed564c5a3e528fc18fe72c227edc906dc70"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/02/figure-13.png",
+      "bytes": 1035282,
+      "sha256": "1aafadf0af4792fe5c9d7f63f78ca2c95fa70830d0db65f6a4e7032177643dfe"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/02/figure-14.png",
+      "bytes": 1029870,
+      "sha256": "8f9d3f4dce0099ae43331746c8af49156b3f425ccf5c0230b2c666925d8553e8"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/02/figure-15.png",
+      "bytes": 1155552,
+      "sha256": "2712dfd3d16d70d83715a2ba7e18b186b4427a29898bf780ff8010ac43bd16b8"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/02/figure-16.png",
+      "bytes": 855389,
+      "sha256": "4c7996379c64d5e115f70f386c2fb1b1ed5cdb258b811cb7ddf23a4f2c383fc2"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/02/figure-17.png",
+      "bytes": 1054252,
+      "sha256": "8a2d575554443663e0dc6db5d622854b0b2df5e69277cc44d031c41c886a0a28"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/02/figure-18.png",
+      "bytes": 1123996,
+      "sha256": "2a1f92137a6ccc6de737e79ba003b850bc55751e63dd958dfb1d820d9beed5c0"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/02/figure-19.png",
+      "bytes": 378665,
+      "sha256": "9b4fbcbcfe0ba8cdab2cb9b63c13286d53dbeb6e7525f163cb073c218a4a882c"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/02/figure-20.png",
+      "bytes": 421303,
+      "sha256": "a51161f393fe9b4623575454bdc060a8a37ab0a5ed0da76bc4d388d5dafb44fb"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/02/page-01.png",
+      "bytes": 408411,
+      "sha256": "83afc907344659360f2daa154990fab473e038b0bbefb8914dd25915f0b3cbbb"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/02/page-02.png",
+      "bytes": 434903,
+      "sha256": "e081e1df01ca53dcdcacab00079c124be484db29fe7670c158d1361e18d2c4f8"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/02/page-03.png",
+      "bytes": 431225,
+      "sha256": "8dcb924ab618c907673a7c9487a2182f49df4dcba48dbe93063ee71b03b013eb"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/02/page-04.png",
+      "bytes": 427164,
+      "sha256": "0952bd9661e5e33bb9f7384aaf50f248c887bb094c095ec66c1b1e40e8a39451"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/02/page-05.png",
+      "bytes": 462327,
+      "sha256": "c5a47b4d386039d170fa3e843b7a394661e4ab08bac20714f37830477d63df79"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/02/page-06.png",
+      "bytes": 463055,
+      "sha256": "93230ce876c1d2e6e1a8c0a314d43ec7308ada163daca8a36222baba2f0bbb30"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/02/page-07.png",
+      "bytes": 450256,
+      "sha256": "63fd6ce0436ab70b237953ec714abcf7bdc052c74ece5b54ebcaab8032124049"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/02/page-08.png",
+      "bytes": 497041,
+      "sha256": "d84713315529edaf53a6587eef967a643f7f8bd39fc69fe11d5cf402194273d9"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/02/page-09.png",
+      "bytes": 518565,
+      "sha256": "1e67c222254465e1cd6a5aaac45305b7ce059e53c75f201b170ffde04b1f2ad7"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/02/page-10.png",
+      "bytes": 455915,
+      "sha256": "24717a64d99edcbc6606cc7d1d32b60162deab2f69ccd2cd2833dd35dc6c9f46"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/02/page-11.png",
+      "bytes": 483045,
+      "sha256": "39c129fbdf457910c12226ec68f1b93438730b3b0cc0c4b41b90caffdf1379cf"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/02/page-12.png",
+      "bytes": 422011,
+      "sha256": "91224270e77b27d2cd7e49528dd7d9ce527bd1a697fa2743d0d38b27052be328"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/02/page-13.png",
+      "bytes": 384738,
+      "sha256": "9378b0fb323fe17d0f5f48fb91d2f7418dd38818eb25fa788d7421be5d5d9ba9"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/02/page-14.png",
+      "bytes": 192084,
+      "sha256": "bf0ae12f4423291a8474c7b930c06cf5a6de22ce2256313f28b7ced4ea156c4a"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/02/page-15.png",
+      "bytes": 431102,
+      "sha256": "d3f7da00aefbef66583633356b71c3d6a4d189950ffc1f6bd1d58a503fed354e"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/02/page-16.png",
+      "bytes": 402891,
+      "sha256": "cbf4220cb572e6346959c8c9b0a484b9b1ce057d84eb5f71b61c1a1c49c81802"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/02/page-17.png",
+      "bytes": 401927,
+      "sha256": "90194e1b237e5599f274031fbeb4cb5ec7699a6ae739981f912c19b642f55370"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/02/page-18.png",
+      "bytes": 315057,
+      "sha256": "829945c2b0c3965a7a595a2853587d79711e1d8e4d495e51891dd13e8343f7ac"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/02/page-19.png",
+      "bytes": 333645,
+      "sha256": "3091762c97e2c10f563d16dffdc0e7750601442843de343ee7acd0c99f21483d"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/02/page-20.png",
+      "bytes": 280488,
+      "sha256": "4f53965609217e6f44f465c4a7b3a60708f22cfc114703459286665e48625104"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/02/page-21.png",
+      "bytes": 378353,
+      "sha256": "0ab44a3ce429e9081962afa929e4178f11bb7db9cda5f069b546d4e9894bf231"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/02/page-22.png",
+      "bytes": 136487,
+      "sha256": "e3abc42aea23c8d33b5e187bb7417af69b9a44c920058e8c31016708173a5f8c"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/03/page-01.png",
+      "bytes": 328065,
+      "sha256": "d4d40cbf770ed5d97a6ad3d6b1468029347b6280de2e198bd88f86bd5db7f0e8"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/03/page-02.png",
+      "bytes": 472954,
+      "sha256": "970cae334e290e982846f6ddcb24118971dd170989e278ce06e36827f755ec41"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/03/page-03.png",
+      "bytes": 338155,
+      "sha256": "c8962df91e546e1ceda32f3cc0535e7d41e827bd4f68b7a010a253771eb83aaa"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/03/page-04.png",
+      "bytes": 355194,
+      "sha256": "7aa7a45ef623731b5b31f008d35729cf84c0121a4d8d5ddec98525aa972fb07d"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/03/page-05.png",
+      "bytes": 350568,
+      "sha256": "d7b13aacbe453cde76b822ba1351ab2f2d332b1f19f99de08c77b8a851eeb10c"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/03/page-06.png",
+      "bytes": 327915,
+      "sha256": "faa06172ce075624145250a6d971ca0a53674dc506379acd5df65e979fd98002"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/03/page-07.png",
+      "bytes": 368269,
+      "sha256": "7207149fa9a9fedd523974b87db4521b9727182f44af0a3cd1b8f7dcd58d2bc0"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/03/page-08.png",
+      "bytes": 357483,
+      "sha256": "b0c6aead1910e63fa57ebc1c4d193b020b0c4b252e2718d60ee000827fa21f22"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/03/page-09.png",
+      "bytes": 326666,
+      "sha256": "cd974e87cebc5317c1ee63d60b7b106051c4721e9353d9962ee3cdcbe9954cc9"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/03/page-10.png",
+      "bytes": 101626,
+      "sha256": "3a1d6da56eb843686e32a62f627ced1c2bde169b6122129656d620dc545b44a9"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/03/page-11.png",
+      "bytes": 393748,
+      "sha256": "e37397353e125bacf28e5586cd3d42d19194c95fe17d68f21747028808e4a1ec"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/03/page-12.png",
+      "bytes": 375568,
+      "sha256": "6ab0d63239746e26728fd1828aa980c09c9086eb3e463baab5b08d62281d544b"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/03/page-13.png",
+      "bytes": 408825,
+      "sha256": "e5ccc1fec18e5c62136aab3b4d0f13d30dc95ecbce6e2ba8729261910e3cf1bf"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/03/page-14.png",
+      "bytes": 129900,
+      "sha256": "314f7d699577ba07d78ecf047c1f4e01d7b85d616ada060a3f2d86b8f5e63c07"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/03/page-15.png",
+      "bytes": 307676,
+      "sha256": "6c20418ee19f3c1844dc8c9fa90560ef0ed8f9d67053e6ea70841433ad0b3ff1"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/03/page-16.png",
+      "bytes": 326891,
+      "sha256": "ff0fc4de5d113a25f20917b564a2916fc678a57c380c4429af517f762afe4a0c"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/03/page-17.png",
+      "bytes": 287569,
+      "sha256": "a3876ac5155f03797f0a55a10b5233fb6b39de4dcaad5238adf6708fb0f90d9b"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/03/page-18.png",
+      "bytes": 448189,
+      "sha256": "d71ab2e9184d9783ca98d6c0e76ae9641b2bc36f2aea04c8ef707fd446cc755e"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/03/page-19.png",
+      "bytes": 344978,
+      "sha256": "b26802cd679fb8c522003bc70b067a14c04c524e8136290b87460d99b408b52e"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/03/page-20.png",
+      "bytes": 330173,
+      "sha256": "b06b4b9d76f0e517c87d3e804c7017c429755a0ec1e00be3e7efcc18099b1cc5"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/03/page-21.png",
+      "bytes": 334517,
+      "sha256": "b9894dbac58738f3415314aba95765ebe190c51f63f563fb41162514b3a61906"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/03/page-22.png",
+      "bytes": 39679,
+      "sha256": "cca9e329ce24af68fb7c78fac65daaea27dbeff3b8cda783f1960407989f2c71"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/03/page-23.png",
+      "bytes": 327633,
+      "sha256": "07368b8f881fac44a951f32c231f99ecd287a3910f369dabab99380c5d9a6632"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/03/page-24.png",
+      "bytes": 353038,
+      "sha256": "c45eca69e71cc0fa3caa27b5f5b5b784ffa7a56c1327091d55a44c92440ceb01"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/03/page-25.png",
+      "bytes": 364868,
+      "sha256": "98439fe251e36840d19ccf96964e53f37b80713ee2ee1629f80b4d601af584d6"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/03/page-26.png",
+      "bytes": 300931,
+      "sha256": "3498426e680e5ba6f79c7ccc8c03b40b3d3651ac53502f731340da06d2cf64f6"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/03/page-27.png",
+      "bytes": 348689,
+      "sha256": "6d4198ee52b875cff9bc29b7c9b62802f2eeb8fbee99749c0acfa726e052659f"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/03/page-28.png",
+      "bytes": 308994,
+      "sha256": "018f3176bfd5f569644caaeb4e5dd7dec20740aaadb8c1709fd020d8b624adaf"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/03/page-29.png",
+      "bytes": 289220,
+      "sha256": "a384f25030b52f26f6611ebdbabc722e0f97ff97f1cfbf4e96a9c865b35e9480"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/03/page-30.png",
+      "bytes": 314010,
+      "sha256": "46dfeac4dfac04a94c0e5a16e70167a3badc1ec196f42d20a1f548621757316a"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/03/page-31.png",
+      "bytes": 297426,
+      "sha256": "6b066664de31d8ee5c5370fbee67cad4728560b579af5a6c3c44f6b2971900ac"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/03/page-32.png",
+      "bytes": 22426,
+      "sha256": "e85d2bcbdd35c74965b6c67f70a110967ef3344a8d062c613e2fc043d3121300"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/04/page-01.png",
+      "bytes": 518739,
+      "sha256": "25cfd6dda77f76c35ce371ce4e8c0923b61ba79c9dab19707de466292c83cc89"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/04/page-02.png",
+      "bytes": 558232,
+      "sha256": "03ba53fde250504d64fb6d77ab0e12d7c8211a748d12bfa019bd2c347f88dece"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/04/page-03.png",
+      "bytes": 548035,
+      "sha256": "86475ebc78f3923e3bfb5f3c72c28c3765c03e6fb934e093f05e6bd9bb317779"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/04/page-04.png",
+      "bytes": 490545,
+      "sha256": "4ca7d12fdd3e31b5d5cea56a21e8b03c5ee94a0aeacadd335ae89868264f3e4e"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/04/page-05.png",
+      "bytes": 573702,
+      "sha256": "a5554fc50ce6176f6fa55cd02369f898332291c1f20a3952d6242ff4d0b54d38"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/04/page-06.png",
+      "bytes": 441906,
+      "sha256": "6dbd7cf520c0638cedb822ee5acdfbe7962b74c08624efa902bbfc5fc5b024a4"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/04/page-07.png",
+      "bytes": 532796,
+      "sha256": "0f6939593a5a0c4eab773024cdf531181ac0c07b20c900cd4b89c08b1897117d"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/04/page-08.png",
+      "bytes": 617174,
+      "sha256": "892351d6ffdd6c8749c64618339d2d4e067603e6a0cc036584691a3c680faed9"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/04/page-09.png",
+      "bytes": 433640,
+      "sha256": "4affaae01c24940bb2494fa2702c650f56de3d9389a6d881a230e0b6dd30f423"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/04/page-10.png",
+      "bytes": 389308,
+      "sha256": "2eefc98d9af8a4c07066852840cb1970fb4d4b9616c029b59cc2fedf66c0052f"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/04/page-11.png",
+      "bytes": 387689,
+      "sha256": "77a4ae8b63d7e3311f8b1b7341224b11db794456d0ab519a75cf2953589808c8"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/05/page-01.png",
+      "bytes": 498095,
+      "sha256": "2dd0b378de336b88c1e552384c03c6ab6520704d9ef061815de187afac263be0"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/05/page-02.png",
+      "bytes": 471424,
+      "sha256": "7c5bc8e4229e4dc97a39f64edd45433dc48124ec82f5cabd35624e3ebecb0461"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/05/page-03.png",
+      "bytes": 577524,
+      "sha256": "3718a9ea650869b48a2536483ea2f5af5108400cec5b1cef81256018a80feca3"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/05/page-04.png",
+      "bytes": 517082,
+      "sha256": "3d13b987daf6046e95a963ee2a513124fbfcbaf9199cd8021c2d4416dd768da8"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/05/page-05.png",
+      "bytes": 593607,
+      "sha256": "1e71f87daf9822b6aa954ead946cb23c8b8ba9badb9a8c5ec26209b5d6a06e1c"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/05/page-06.png",
+      "bytes": 484189,
+      "sha256": "a77115263386f93260b60f4ef2aa7e4dbf6d426fe59e8ec14a3aa6519b8bbefc"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/05/page-07.png",
+      "bytes": 425389,
+      "sha256": "2e36dbd49885c8201969eda9d808d5eea9f27ea707e1a7eac08e9de02b98c751"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/05/page-08.png",
+      "bytes": 468940,
+      "sha256": "208a5b19e1978f15b9b731c3497ae7a4395d877631bb29e883bd5561cf7a1d86"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/05/page-09.png",
+      "bytes": 474517,
+      "sha256": "02005b260bd7f66b4ccb5172f5975c077f8272fcffd34f1e15626349a127fe29"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/05/page-10.png",
+      "bytes": 557654,
+      "sha256": "a603f5eb8d7eefa046c2fe6f4049fc951c262f3d00f40cfc17a5df1a97efbbf9"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/05/page-11.png",
+      "bytes": 598410,
+      "sha256": "294c7c716ce7d9b22ed60c5794e634adddc92ddcd0ba8429cc9563212a44bdce"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/05/page-12.png",
+      "bytes": 574819,
+      "sha256": "fbcb6ddd326f3ad21a84e97dc91b2451a2a67cfb34a3c440f23b3cc6f3e32916"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/05/page-13.png",
+      "bytes": 277400,
+      "sha256": "c6423cac270dd21cae5e6eee8398121f3470547677db553597e8eb115fcb2377"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/05/page-14.png",
+      "bytes": 365717,
+      "sha256": "07a4497d6b2bf790b750b0b775cfea90aea49e43b9fa8746461d9c0841778c33"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/05/page-15.png",
+      "bytes": 217020,
+      "sha256": "c2f82ca893d91045e6200ed5522d6ef13bfe1c6d9fa915879f4c7008b4a10f43"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/05/page-16.png",
+      "bytes": 408524,
+      "sha256": "c2dfc7d0c1ac95b363f791ff5c43776c3ba58236c2f3b7d9248232e1d615af87"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/05/page-17.png",
+      "bytes": 392856,
+      "sha256": "70c0112a6463632d7a641f46cb337212a003f7b9c95d6255a43a0934df04eef8"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/05/page-18.png",
+      "bytes": 326178,
+      "sha256": "a4d5a4e78c72b7a524e072428cc38a6c5979865d605eb31bd6acb83a8bcc2076"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/assets/05/page-19.png",
+      "bytes": 230952,
+      "sha256": "db471f0c78b6b2b0399a8c58338f131437a0a0d9134040ff92f7aa5e086b5987"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/figure_translation_04_05.py",
+      "bytes": 5798,
+      "sha256": "0a4bd3d10c812512c41f3373489d84db7581d2c6c71a9436b3739868a0da455a"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/finalize04_05.py",
+      "bytes": 2583,
+      "sha256": "eb9e936eb2a8516d7e37ccdc499066b86d678577beb6d88e476c13e97190c255"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/fix04.py",
+      "bytes": 3983,
+      "sha256": "83391f00a56252bda98f4f44044cefcc1310b4d57617011ac23fddb791cf8add"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/restore_citations04_05.py",
+      "bytes": 10527,
+      "sha256": "1f992dd1faca4afcd0b0caeb1a5e2d1ffdb27dc06eabdd8492d435a2fd97170d"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/翻译源稿/update_qc_citations.py",
+      "bytes": 1699,
+      "sha256": "a328f3090747cefbf2fe2f68460c9f7aef755073c023fc9e058bb0c4c79e180f"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/论文精读矩阵.md",
+      "bytes": 3580,
+      "sha256": "ed3f753d3ced3a2b9ef786a29d43384ce256f794ef0e202dda37b947b81e9700"
+    },
+    {
+      "path": "课程报告/知识图谱_2026/详细执行计划_20261117.md",
+      "bytes": 14492,
+      "sha256": "dab2dab890dc5cf4bb97f53505b5880656bca92e580907996d431909612f8ae4"
+    }
+  ],
+  "image_links_checked": 88,
+  "new_generated_pdfs_uploaded": false
+}

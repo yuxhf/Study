@@ -1,0 +1,2 @@
+from pathlib import Path
+b=Path('E:/GroupMT/study-report/课程报告/知识图谱_2026/翻译源稿');p=b/'03_G-Retriever.md';s=p.read_text(encoding='utf8');s=s.replace('带奖赏的斯坦纳树','奖赏收集斯坦纳树').replace('字段中文对应：node_id 节点编号','字段中文对应：width 宽，height 高，objects 物体，relations 关系，attributes 属性；node_id 节点编号');s=s.replace('草，三只羊（白、毛茸茸），岸（沙质）','草，11羊（白、毛茸茸），12羊（白、毛茸茸），13羊（白、毛茸茸），14岸（沙质）');p.write_text(s,encoding='utf8');p=b/'03_G-Retriever_独立交叉审校15-25.md';s=p.read_text(encoding='utf8');s+='\n后续执行：已按主agent授权落实上述第1、2项小修，并将03稿PCST中文术语统一为“奖赏收集斯坦纳树”。未改动其他内容。\n';p.write_text(s,encoding='utf8')

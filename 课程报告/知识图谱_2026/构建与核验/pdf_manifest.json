@@ -1,0 +1,36 @@
+[
+  {
+    "file": "报告成稿\\知识图谱课程报告.pdf",
+    "pages": 11,
+    "source": "报告成稿\\知识图谱课程报告.md"
+  },
+  {
+    "file": "中文翻译PDF\\01_SAC-KG.pdf",
+    "pages": 23,
+    "source": "翻译源稿\\01_SAC-KG.md"
+  },
+  {
+    "file": "中文翻译PDF\\02_KGP.pdf",
+    "pages": 38,
+    "source": "翻译源稿\\02_KGP.md"
+  },
+  {
+    "file": "中文翻译PDF\\03_G-Retriever.pdf",
+    "pages": 62,
+    "source": "翻译源稿\\03_G-Retriever.md"
+  },
+  {
+    "file": "中文翻译PDF\\04_FastToG.pdf",
+    "pages": 22,
+    "source": "翻译源稿\\04_FastToG.md"
+  },
+  {
+    "file": "中文翻译PDF\\05_HippoRAG2.pdf",
+    "pages": 30,
+    "source": "翻译源稿\\05_HippoRAG2.md"
+  },
+  {
+    "file": "报告成稿\\知识图谱课程报告_含五篇译稿.pdf",
+    "pages": 190
+  }
+]

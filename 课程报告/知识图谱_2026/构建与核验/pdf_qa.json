@@ -1,0 +1,48 @@
+[
+  {
+    "file": "报告成稿\\知识图谱课程报告.pdf",
+    "pages": 11,
+    "empty_text_pages": [],
+    "replacement_char_pages": [],
+    "latex_command_pages": []
+  },
+  {
+    "file": "中文翻译PDF\\01_SAC-KG.pdf",
+    "pages": 23,
+    "empty_text_pages": [],
+    "replacement_char_pages": [],
+    "latex_command_pages": []
+  },
+  {
+    "file": "中文翻译PDF\\02_KGP.pdf",
+    "pages": 38,
+    "empty_text_pages": [
+      34,
+      35,
+      36
+    ],
+    "replacement_char_pages": [],
+    "latex_command_pages": []
+  },
+  {
+    "file": "中文翻译PDF\\03_G-Retriever.pdf",
+    "pages": 62,
+    "empty_text_pages": [],
+    "replacement_char_pages": [],
+    "latex_command_pages": []
+  },
+  {
+    "file": "中文翻译PDF\\04_FastToG.pdf",
+    "pages": 22,
+    "empty_text_pages": [],
+    "replacement_char_pages": [],
+    "latex_command_pages": []
+  },
+  {
+    "file": "中文翻译PDF\\05_HippoRAG2.pdf",
+    "pages": 30,
+    "empty_text_pages": [],
+    "replacement_char_pages": [],
+    "latex_command_pages": []
+  }
+]

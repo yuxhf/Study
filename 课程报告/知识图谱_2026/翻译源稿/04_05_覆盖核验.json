@@ -1,0 +1,48 @@
+{
+  "04_FastToG": {
+    "pages_expected": 11,
+    "pages_marked": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "missing_page_markers": [],
+    "chinese_characters": 6022,
+    "broken_image_links": []
+  },
+  "05_HippoRAG2": {
+    "pages_expected": 19,
+    "pages_marked": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "missing_page_markers": [],
+    "chinese_characters": 8011,
+    "broken_image_links": []
+  }
+}

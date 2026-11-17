@@ -1,0 +1,14 @@
+{
+  "1": "z<sub>n</sub> = LM(x<sub>n</sub>) ∈ ℝ<sup>d</sup>",
+  "2": "p<sub>θ</sub>(Y | [P; X]) = ∏<sub>i=1</sub><sup>r</sup> p<sub>θ</sub>(y<sub>i</sub> | y<sub>&lt;i</sub>, [P; X])",
+  "3": "z<sub>n</sub> = LM(x<sub>n</sub>) ∈ ℝ<sup>d</sup>",
+  "4": "z<sub>q</sub> = LM(x<sub>q</sub>) ∈ ℝ<sup>d</sup>",
+  "5": "V<sub>k</sub> = argtopk<sub>n∈V</sub> cos(z<sub>q</sub>, z<sub>n</sub>);<br/>E<sub>k</sub> = argtopk<sub>e∈E</sub> cos(z<sub>q</sub>, z<sub>e</sub>)",
+  "6": "prize(n) = k − i，若 n ∈ V<sub>k</sub> 且 n 为排名第 i 的节点；<br/>prize(n) = 0，其他情况。",
+  "7": "S<sup>∗</sup> = argmax<sub>S⊆G，S连通</sub> [∑<sub>n∈V<sub>S</sub></sub> prize(n) + ∑<sub>e∈E<sub>S</sub></sub> prize(e) − cost(S)]",
+  "8": "cost(S) = |E<sub>S</sub>| × C<sub>e</sub>",
+  "9": "h<sub>g</sub> = POOL(GNN<sub>φ₁</sub>(S<sup>∗</sup>)) ∈ ℝ<sup>d<sub>g</sub></sup>",
+  "10": "ĥ<sub>g</sub> = MLP<sub>φ₂</sub>(h<sub>g</sub>) ∈ ℝ<sup>d<sub>l</sub></sup>",
+  "11": "h<sub>t</sub> = TextEmbedder([textualize(S<sup>∗</sup>); x<sub>q</sub>]) ∈ ℝ<sup>L×d<sub>l</sub></sup>",
+  "12": "p<sub>θ,φ₁,φ₂</sub>(Y | S<sup>∗</sup>, x<sub>q</sub>) = ∏<sub>i=1</sub><sup>r</sup> p<sub>θ,φ₁,φ₂</sub>(y<sub>i</sub> | y<sub>&lt;i</sub>, [ĥ<sub>g</sub>; h<sub>t</sub>])"
+}

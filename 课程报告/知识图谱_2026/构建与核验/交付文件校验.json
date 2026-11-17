@@ -1,0 +1,44 @@
+[
+  {
+    "file": "报告成稿\\知识图谱课程报告.pdf",
+    "pages": 11,
+    "bytes": 495148,
+    "sha256": "9d33ea3f9fcea7659c28ed5c875b9851e36ce94e8fa9bfd85063ffb8ad6b9bad"
+  },
+  {
+    "file": "报告成稿\\知识图谱课程报告_含五篇译稿.pdf",
+    "pages": 190,
+    "bytes": 27990832,
+    "sha256": "ad41be58bec24833b30a714f021df44a1d51f04bf7ae954ca3c8a4b9e6dca662"
+  },
+  {
+    "file": "中文翻译PDF\\01_SAC-KG.pdf",
+    "pages": 23,
+    "bytes": 874686,
+    "sha256": "061baecbe2692babcf798a7b3a12b70b4c530b5bfb239cf0b146b75d20c0376b"
+  },
+  {
+    "file": "中文翻译PDF\\02_KGP.pdf",
+    "pages": 38,
+    "bytes": 14388895,
+    "sha256": "a6d9fc657bd2c1f01197d4af4f5dd2f51e7b92ff7096bad0d4660753cd5e34f4"
+  },
+  {
+    "file": "中文翻译PDF\\03_G-Retriever.pdf",
+    "pages": 62,
+    "bytes": 5397759,
+    "sha256": "3636929f8155d29734c591f45348e5fde7e825e4da955f55e1bb199d6de47540"
+  },
+  {
+    "file": "中文翻译PDF\\04_FastToG.pdf",
+    "pages": 22,
+    "bytes": 3953974,
+    "sha256": "92835a1d295e0be743847538e7f77877ff1a368780e533e345a64f2fdca5386d"
+  },
+  {
+    "file": "中文翻译PDF\\05_HippoRAG2.pdf",
+    "pages": 30,
+    "bytes": 2877789,
+    "sha256": "96f7784d4bf88adbb0e0d23211612088fee9f27028a92e4bf1b85042554f7d95"
+  }
+]

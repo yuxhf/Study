@@ -1,0 +1,47 @@
+[
+  {
+    "paper": "01_SAC-KG",
+    "expected_pages": 16,
+    "source_markers": 16,
+    "missing_pages": [],
+    "broken_images": [],
+    "chars": 22182,
+    "sha256": "4e1f0be7a233c3f57e9a9d99523812080b09b9e8c4ccfd84de1e7645eb9dea27"
+  },
+  {
+    "paper": "02_KGP",
+    "expected_pages": 22,
+    "source_markers": 22,
+    "missing_pages": [],
+    "broken_images": [],
+    "chars": 41567,
+    "sha256": "a7d5124658ea6626fc9dcd2da61eefee63d92b72543bf68f303aec332b45b750"
+  },
+  {
+    "paper": "03_G-Retriever",
+    "expected_pages": 32,
+    "source_markers": 32,
+    "missing_pages": [],
+    "broken_images": [],
+    "chars": 31389,
+    "sha256": "f5bbe684f83214ab89930b857b8a15f6a4325ed6760d6b5d92d3bdb351d81fa1"
+  },
+  {
+    "paper": "04_FastToG",
+    "expected_pages": 11,
+    "source_markers": 11,
+    "missing_pages": [],
+    "broken_images": [],
+    "chars": 15423,
+    "sha256": "1ec3a4b97444aa27732be346d382f89731a951aa31bf044886c23179e875725f"
+  },
+  {
+    "paper": "05_HippoRAG2",
+    "expected_pages": 19,
+    "source_markers": 19,
+    "missing_pages": [],
+    "broken_images": [],
+    "chars": 21842,
+    "sha256": "4b9bba05191ad572e82b97cbeb75aee497665f27b83ce5186d895af360e7bfe8"
+  }
+]

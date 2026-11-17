@@ -1,0 +1,310 @@
+{
+  "paper": "G-Retriever",
+  "pdf_pages": 32,
+  "sha256": "c1f0596b65154401f441f05b7b97b9110ec7c20af58f83d098c60f4325b43b97",
+  "coverage": [
+    {
+      "source_page": 1,
+      "english_extracted_chars": 2783,
+      "translation_chars": 850,
+      "source_image_present": true,
+      "status": "draft_translated",
+      "manual_visual_qc": false
+    },
+    {
+      "source_page": 2,
+      "english_extracted_chars": 7473,
+      "translation_chars": 1156,
+      "source_image_present": true,
+      "status": "draft_translated",
+      "manual_visual_qc": false
+    },
+    {
+      "source_page": 3,
+      "english_extracted_chars": 3237,
+      "translation_chars": 1057,
+      "source_image_present": true,
+      "status": "draft_translated",
+      "manual_visual_qc": false
+    },
+    {
+      "source_page": 4,
+      "english_extracted_chars": 3288,
+      "translation_chars": 1268,
+      "source_image_present": true,
+      "status": "draft_translated",
+      "manual_visual_qc": false
+    },
+    {
+      "source_page": 5,
+      "english_extracted_chars": 4332,
+      "translation_chars": 1391,
+      "source_image_present": true,
+      "status": "draft_translated",
+      "manual_visual_qc": false
+    },
+    {
+      "source_page": 6,
+      "english_extracted_chars": 3377,
+      "translation_chars": 1015,
+      "source_image_present": true,
+      "status": "draft_translated",
+      "manual_visual_qc": false
+    },
+    {
+      "source_page": 7,
+      "english_extracted_chars": 3391,
+      "translation_chars": 1467,
+      "source_image_present": true,
+      "status": "draft_translated",
+      "manual_visual_qc": false
+    },
+    {
+      "source_page": 8,
+      "english_extracted_chars": 3079,
+      "translation_chars": 1664,
+      "source_image_present": true,
+      "status": "draft_translated",
+      "manual_visual_qc": false
+    },
+    {
+      "source_page": 9,
+      "english_extracted_chars": 2855,
+      "translation_chars": 1122,
+      "source_image_present": true,
+      "status": "draft_translated",
+      "manual_visual_qc": false
+    },
+    {
+      "source_page": 10,
+      "english_extracted_chars": 809,
+      "translation_chars": 332,
+      "source_image_present": true,
+      "status": "draft_translated",
+      "manual_visual_qc": false
+    },
+    {
+      "source_page": 11,
+      "english_extracted_chars": 3290,
+      "translation_chars": 70,
+      "source_image_present": true,
+      "status": "references_original",
+      "manual_visual_qc": false
+    },
+    {
+      "source_page": 12,
+      "english_extracted_chars": 3117,
+      "translation_chars": 55,
+      "source_image_present": true,
+      "status": "references_original",
+      "manual_visual_qc": false
+    },
+    {
+      "source_page": 13,
+      "english_extracted_chars": 3328,
+      "translation_chars": 55,
+      "source_image_present": true,
+      "status": "references_original",
+      "manual_visual_qc": false
+    },
+    {
+      "source_page": 14,
+      "english_extracted_chars": 1041,
+      "translation_chars": 55,
+      "source_image_present": true,
+      "status": "references_original",
+      "manual_visual_qc": false
+    },
+    {
+      "source_page": 15,
+      "english_extracted_chars": 2755,
+      "translation_chars": 912,
+      "source_image_present": true,
+      "status": "draft_translated",
+      "manual_visual_qc": false
+    },
+    {
+      "source_page": 16,
+      "english_extracted_chars": 3621,
+      "translation_chars": 884,
+      "source_image_present": true,
+      "status": "draft_translated",
+      "manual_visual_qc": false
+    },
+    {
+      "source_page": 17,
+      "english_extracted_chars": 3402,
+      "translation_chars": 1002,
+      "source_image_present": true,
+      "status": "draft_translated",
+      "manual_visual_qc": false
+    },
+    {
+      "source_page": 18,
+      "english_extracted_chars": 7387,
+      "translation_chars": 1267,
+      "source_image_present": true,
+      "status": "draft_translated",
+      "manual_visual_qc": false
+    },
+    {
+      "source_page": 19,
+      "english_extracted_chars": 3050,
+      "translation_chars": 943,
+      "source_image_present": true,
+      "status": "draft_translated",
+      "manual_visual_qc": false
+    },
+    {
+      "source_page": 20,
+      "english_extracted_chars": 2972,
+      "translation_chars": 935,
+      "source_image_present": true,
+      "status": "draft_translated",
+      "manual_visual_qc": false
+    },
+    {
+      "source_page": 21,
+      "english_extracted_chars": 2989,
+      "translation_chars": 1026,
+      "source_image_present": true,
+      "status": "draft_translated",
+      "manual_visual_qc": false
+    },
+    {
+      "source_page": 22,
+      "english_extracted_chars": 267,
+      "translation_chars": 145,
+      "source_image_present": true,
+      "status": "draft_translated",
+      "manual_visual_qc": false
+    },
+    {
+      "source_page": 23,
+      "english_extracted_chars": 3555,
+      "translation_chars": 904,
+      "source_image_present": true,
+      "status": "draft_translated",
+      "manual_visual_qc": false
+    },
+    {
+      "source_page": 24,
+      "english_extracted_chars": 2081,
+      "translation_chars": 584,
+      "source_image_present": true,
+      "status": "draft_translated",
+      "manual_visual_qc": false
+    },
+    {
+      "source_page": 25,
+      "english_extracted_chars": 4105,
+      "translation_chars": 1151,
+      "source_image_present": true,
+      "status": "draft_translated",
+      "manual_visual_qc": false
+    },
+    {
+      "source_page": 26,
+      "english_extracted_chars": 2802,
+      "translation_chars": 740,
+      "source_image_present": true,
+      "status": "draft_translated",
+      "manual_visual_qc": false
+    },
+    {
+      "source_page": 27,
+      "english_extracted_chars": 3280,
+      "translation_chars": 751,
+      "source_image_present": true,
+      "status": "draft_translated",
+      "manual_visual_qc": false
+    },
+    {
+      "source_page": 28,
+      "english_extracted_chars": 2824,
+      "translation_chars": 828,
+      "source_image_present": true,
+      "status": "draft_translated",
+      "manual_visual_qc": false
+    },
+    {
+      "source_page": 29,
+      "english_extracted_chars": 2665,
+      "translation_chars": 728,
+      "source_image_present": true,
+      "status": "draft_translated",
+      "manual_visual_qc": false
+    },
+    {
+      "source_page": 30,
+      "english_extracted_chars": 2962,
+      "translation_chars": 792,
+      "source_image_present": true,
+      "status": "draft_translated",
+      "manual_visual_qc": false
+    },
+    {
+      "source_page": 31,
+      "english_extracted_chars": 2662,
+      "translation_chars": 727,
+      "source_image_present": true,
+      "status": "draft_translated",
+      "manual_visual_qc": false
+    },
+    {
+      "source_page": 32,
+      "english_extracted_chars": 132,
+      "translation_chars": 387,
+      "source_image_present": true,
+      "status": "draft_translated",
+      "manual_visual_qc": false
+    }
+  ],
+  "equation_numbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "tables": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "figures": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "remaining": [
+    "逐页中英句级复核尚未完成",
+    "全部图片为原文整页；图中英文机器字段和实例图谱标签未全部逐项中文替换",
+    "表9机器数据编号、坐标、Freebase路径以原图保留，未逐项重排为可编辑中文表",
+    "附录H模型长回答已翻译，但应逐句复核忠实性",
+    "原PDF所有页均附影印，不以影印页计为中文翻译完成证据"
+  ]
+}
