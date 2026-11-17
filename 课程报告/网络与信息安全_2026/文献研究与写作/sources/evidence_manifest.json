@@ -1,0 +1,307 @@
+{
+  "date": "2026-11-17",
+  "course_registered_in_global_registry": false,
+  "registry_changed": false,
+  "papers": [
+    {
+      "id": "01",
+      "paper_id": "doi:10.1145/3716848",
+      "title": "Security Weaknesses of Copilot-Generated Code in GitHub Projects: An Empirical Study",
+      "formal_url": "https://doi.org/10.1145/3716848",
+      "reading_scope": "targeted_fulltext_reading_not_all_appendices",
+      "note": "core/paper_01.md",
+      "source_pdf": "sources/paper_01.pdf",
+      "sha256": "aa33eeaf1a4873c87955b79aad5342cf789112613ffd8c7bce15e4e93cca8f45",
+      "source_urls_in_note": [
+        "https://arxiv.org/abs/2310.02059"
+      ],
+      "independent_replication": false
+    },
+    {
+      "id": "02",
+      "paper_id": "doi:10.1145/3744916.3773217",
+      "title": "Rethinking the Evaluation of Secure Code Generation",
+      "formal_url": "https://conf.researchr.org/details/icse-2026/icse-2026-research-track/175/Rethinking-the-Evaluation-of-Secure-Code-Generation",
+      "reading_scope": "method_results_limitations_core_review",
+      "note": "core/rethinking.md",
+      "source_pdf": "sources/rethinking.pdf",
+      "sha256": "333997c644d0f72ddf7dd79a5b70d60d0b190569d9701145b437b91351001c11",
+      "source_urls_in_note": [
+        "https://conf.researchr.org/details/icse-2026/icse-2026-research-track/175/Rethinking-the-Evaluation-of-Secure-Code-Generation",
+        "https://tao.aisec.world/assets/pdf/ICSE26.pdf",
+        "https://arxiv.org/pdf/2503.15554v2",
+        "https://github.com/Utah-SaLT-Lab/RethinkSecCodeEval"
+      ],
+      "independent_replication": false
+    },
+    {
+      "id": "03",
+      "paper_id": "doi:10.18653/v1/2025.acl-long.849",
+      "title": "Can You Really Trust Code Copilot? Evaluating Large Language Models from a Code Security Perspective",
+      "formal_url": "https://aclanthology.org/2025.acl-long.849/",
+      "reading_scope": "method_results_limitations_core_review",
+      "note": "core/copilot.md",
+      "source_pdf": "sources/copilot.pdf",
+      "sha256": "b3dbcd474850f5bd9a13cac65e0af540d78472c2d4c5bda2ab7816e2e3e612cc",
+      "source_urls_in_note": [
+        "https://aclanthology.org/2025.acl-long.849/",
+        "https://aclanthology.org/2025.acl-long.849.pdf",
+        "https://github.com/MurrayTom/CoV-Eval"
+      ],
+      "independent_replication": false
+    },
+    {
+      "id": "04",
+      "paper_id": "doi:10.18653/v1/2024.emnlp-main.806",
+      "title": "SecCoder: Towards Generalizable and Robust Secure Code Generation",
+      "formal_url": "https://aclanthology.org/2024.emnlp-main.806/",
+      "reading_scope": "targeted_fulltext_reading_not_all_appendices",
+      "note": "core/paper_04.md",
+      "source_pdf": "sources/paper_04.pdf",
+      "sha256": "0c1868a3a09f11ca5119f94fbb7db7908e3f5f0d5fb7d30cb36ba97149ca58df",
+      "source_urls_in_note": [
+        "https://aclanthology.org/2024.emnlp-main.806/"
+      ],
+      "independent_replication": false
+    },
+    {
+      "id": "05",
+      "paper_id": "doi:10.18653/v1/2025.acl-long.1263",
+      "title": "Teaching an Old LLM Secure Coding: Localized Preference Optimization on Distilled Preferences",
+      "formal_url": "https://aclanthology.org/2025.acl-long.1263/",
+      "reading_scope": "targeted_fulltext_reading_not_all_appendices",
+      "note": "core/paper_05.md",
+      "source_pdf": "sources/paper_05.pdf",
+      "sha256": "03560c37e23ff9a3eff23cb8a5b778162916397f25772a6235fc5a31cd755d29",
+      "source_urls_in_note": [
+        "https://aclanthology.org/2025.acl-long.1263/"
+      ],
+      "independent_replication": false
+    },
+    {
+      "id": "06",
+      "paper_id": "doi:10.1145/3744916.3773191",
+      "title": "SecureReviewer: Enhancing Large Language Models for Secure Code Review through Secure-Aware Fine-Tuning",
+      "formal_url": "https://conf.researchr.org/details/icse-2026/icse-2026-research-track/149/SecureReviewer-Enhancing-Large-Language-Models-for-Secure-Code-Review-through-Secure",
+      "reading_scope": "method_results_limitations_core_review",
+      "note": "core/securereviewer.md",
+      "source_pdf": "sources/securereviewer.pdf",
+      "sha256": "c94d486eb9f0bf6fcbd59e078e60da6f06c93ac424dda58792d45c3f037204d2",
+      "source_urls_in_note": [
+        "https://conf.researchr.org/details/icse-2026/icse-2026-research-track/149/SecureReviewer-Enhancing-Large-Language-Models-for-Secure-Code-Review-through-Secure",
+        "https://doi.org/10.1145/3744916.3773191",
+        "https://arxiv.org/abs/2510.26457",
+        "https://github.com/SIMIAO515/SecureReviewer"
+      ],
+      "independent_replication": false
+    },
+    {
+      "id": "07",
+      "paper_id": "doi:10.1145/3744916.3773210",
+      "title": "Repairing LLM Executions for Secure Automatic Programming",
+      "formal_url": "https://conf.researchr.org/details/icse-2026/icse-2026-research-track/168/Repairing-LLM-Executions-for-Secure-Automatic-Programming",
+      "reading_scope": "targeted_fulltext_reading_not_all_appendices",
+      "note": "core/paper_07.md",
+      "source_pdf": "sources/paper_07.pdf",
+      "sha256": "0af372acde3e11bfd07852ea6124202fae1757895d456d7cf7bfa17f31b70cef",
+      "source_urls_in_note": [
+        "https://abhikrc.com/pdf/ICSE26-security.pdf"
+      ],
+      "independent_replication": false
+    },
+    {
+      "id": "08",
+      "paper_id": "url:https://www.usenix.org/conference/usenixsecurity26/presentation/thang",
+      "title": "GoodVibe: Security-by-Vibe for LLM-Based Code Generation",
+      "formal_url": "https://www.usenix.org/conference/usenixsecurity26/presentation/thang",
+      "reading_scope": "targeted_fulltext_reading_not_all_appendices",
+      "note": "core/paper_08.md",
+      "source_pdf": "sources/paper_08.pdf",
+      "sha256": "2a5429ca55ae1fd7512941c295cf6abedeaf7e666673a1328724127e0cb4a26b",
+      "source_urls_in_note": [
+        "https://www.usenix.org/conference/usenixsecurity26/presentation/thang"
+      ],
+      "independent_replication": false
+    },
+    {
+      "id": "09",
+      "paper_id": "doi:10.1145/3719027.3765049",
+      "title": "Give LLMs a Security Course: Securing Retrieval-Augmented Code Generation via Knowledge Injection",
+      "formal_url": "https://doi.org/10.1145/3719027.3765049",
+      "reading_scope": "targeted_fulltext_reading_not_all_appendices",
+      "note": "core/paper_09.md",
+      "source_pdf": "sources/paper_09.pdf",
+      "sha256": "6d96a771d1e6ae6fc2caf2b72c4e1d3a0bb14beb1e7b4781df13b8e5d2ea1fec",
+      "source_urls_in_note": [
+        "https://arxiv.org/abs/2504.16429"
+      ],
+      "independent_replication": false
+    },
+    {
+      "id": "10",
+      "paper_id": "url:https://www.usenix.org/conference/usenixsecurity26/presentation/sun-tong",
+      "title": "Securing Retrieval-Augmented Code Generation via Contextual Knowledge Injection: A Case for Embedded IoT Applications",
+      "formal_url": "https://www.usenix.org/conference/usenixsecurity26/presentation/sun-tong",
+      "reading_scope": "targeted_fulltext_reading_not_all_appendices",
+      "note": "core/paper_10.md",
+      "source_pdf": "sources/paper_10.pdf",
+      "sha256": "610d90b4425ceaec7124c83d43b1cdfd2c005379aa5d1ffc7eabe0420a891b76",
+      "source_urls_in_note": [
+        "https://www.usenix.org/conference/usenixsecurity26/presentation/sun-tong"
+      ],
+      "independent_replication": false
+    },
+    {
+      "id": "11",
+      "paper_id": "doi:10.1109/TSE.2026.3657432",
+      "title": "Beyond Functional Correctness: Exploring Hallucinations in LLM-Generated Code",
+      "formal_url": "https://ieeexplore.ieee.org/abstract/document/11361549",
+      "reading_scope": "targeted_fulltext_reading_not_all_appendices",
+      "note": "core/paper_11.md",
+      "source_pdf": "sources/paper_11.pdf",
+      "sha256": "4218b90ab0a44bb4082e713eb63d072924e7550f091da8b197cb7fadfd5f311e",
+      "source_urls_in_note": [
+        "https://ieeexplore.ieee.org/document/11361549",
+        "https://arxiv.org/abs/2404.00971"
+      ],
+      "independent_replication": false
+    },
+    {
+      "id": "12",
+      "paper_id": "url:https://www.usenix.org/conference/usenixsecurity25/presentation/spracklen",
+      "title": "We Have a Package for You! A Comprehensive Analysis of Package Hallucinations by Code Generating LLMs",
+      "formal_url": "https://www.usenix.org/conference/usenixsecurity25/presentation/spracklen",
+      "reading_scope": "targeted_fulltext_reading_not_all_appendices",
+      "note": "core/paper_12.md",
+      "source_pdf": "sources/paper_12.pdf",
+      "sha256": "b12c62ed298a1eeb830a66aa5de4f7746da3e90b50c6f2d51bfaaf74d6381934",
+      "source_urls_in_note": [
+        "https://www.usenix.org/conference/usenixsecurity25/presentation/spracklen",
+        "https://www.usenix.org/system/files/usenixsecurity25-spracklen.pdf",
+        "https://github.com/Spracks/PackageHallucination"
+      ],
+      "independent_replication": false
+    },
+    {
+      "id": "13",
+      "paper_id": "doi:10.1109/ASE63991.2025.00225",
+      "title": "HFuzzer: Testing Large Language Models for Package Hallucinations via Phrase-based Fuzzing",
+      "formal_url": "https://doi.org/10.1109/ASE63991.2025.00225",
+      "reading_scope": "targeted_fulltext_reading_not_all_appendices",
+      "note": "core/paper_13.md",
+      "source_pdf": "sources/paper_13.pdf",
+      "sha256": "f908e5164530ebc78e92b17ccd75b3c3fbec53d3e76ddf3b33e2722456c827ba",
+      "source_urls_in_note": [
+        "https://doi.org/10.1109/ASE63991.2025.00225",
+        "https://arxiv.org/abs/2509.23835",
+        "https://github.com/YukZhao/HFuzzer"
+      ],
+      "independent_replication": false
+    },
+    {
+      "id": "14",
+      "paper_id": "doi:10.1007/978-981-95-3537-8_9",
+      "title": "Security Vulnerabilities in AI-Generated Code: A Large-Scale Analysis of Public GitHub Repositories",
+      "formal_url": "https://doi.org/10.1007/978-981-95-3537-8_9",
+      "reading_scope": "targeted_fulltext_reading_not_all_appendices",
+      "note": "core/paper_14.md",
+      "source_pdf": "sources/paper_14.pdf",
+      "sha256": "896de689f9f81d0359a7ea71c23bbc3235fcba2439e950e716f7b00bc648b920",
+      "source_urls_in_note": [
+        "https://doi.org/10.1007/978-981-95-3537-8_9",
+        "https://arxiv.org/abs/2510.26103"
+      ],
+      "independent_replication": false
+    },
+    {
+      "id": "15",
+      "paper_id": "doi:10.1145/3832170",
+      "title": "Insecure Coding Preferences in Long-Term Memory: Security Risks for LLM-based Code Generation",
+      "formal_url": "https://conf.researchr.org/details/issta-2026/issta-2026-research-papers/79/Insecure-Coding-Preferences-in-Long-Term-Memory-Security-Risks-for-LLM-based-Code-Ge",
+      "reading_scope": "targeted_fulltext_reading_not_all_appendices",
+      "note": "core/paper_15.md",
+      "source_pdf": "sources/paper_15.pdf",
+      "sha256": "877ea69c8769b4d091f538dd6f5edee05a994ff9fea8ab631d88f5dbc925d8d2",
+      "source_urls_in_note": [
+        "https://conf.researchr.org/details/issta-2026/issta-2026-research-papers/79/Insecure-Coding-Preferences-in-Long-Term-Memory-Security-Risks-for-LLM-based-Code-Ge",
+        "https://arxiv.org/abs/2607.17619"
+      ],
+      "independent_replication": false
+    },
+    {
+      "id": "16",
+      "paper_id": "doi:10.1109/SP54263.2024.00140",
+      "title": "TrojanPuzzle: Covertly Poisoning Code-Suggestion Models",
+      "formal_url": "https://ieeexplore.ieee.org/abstract/document/10646865",
+      "reading_scope": "targeted_fulltext_reading_not_all_appendices",
+      "note": "core/paper_16.md",
+      "source_pdf": "sources/paper_16.pdf",
+      "sha256": "6861c0a225bba55ad1f2bec00a218e62c032e0879bb1144ffc1d68fe84bd5eaf",
+      "source_urls_in_note": [
+        "https://doi.org/10.1109/SP54263.2024.00140",
+        "https://arxiv.org/abs/2301.02344"
+      ],
+      "independent_replication": false
+    },
+    {
+      "id": "17",
+      "paper_id": "url:https://www.usenix.org/conference/usenixsecurity24/presentation/yan",
+      "title": "An LLM-Assisted Easy-to-Trigger Backdoor Attack on Code Completion Models: Injecting Disguised Vulnerabilities against Strong Detection",
+      "formal_url": "https://www.usenix.org/conference/usenixsecurity24/presentation/yan",
+      "reading_scope": "targeted_fulltext_reading_not_all_appendices",
+      "note": "core/paper_17.md",
+      "source_pdf": "sources/paper_17.pdf",
+      "sha256": "528217ee3e091b4fa4862e0fed18ab6d38c3b8f0b6e981e311db7a138463caaa",
+      "source_urls_in_note": [
+        "https://www.usenix.org/conference/usenixsecurity24/presentation/yan",
+        "https://www.usenix.org/system/files/usenixsecurity24-yan.pdf"
+      ],
+      "independent_replication": false
+    },
+    {
+      "id": "18",
+      "paper_id": "doi:10.1109/TSE.2024.3361661",
+      "title": "Stealthy Backdoor Attack for Code Models",
+      "formal_url": "https://doi.org/10.1109/TSE.2024.3361661",
+      "reading_scope": "targeted_fulltext_reading_not_all_appendices",
+      "note": "core/paper_18.md",
+      "source_pdf": "sources/paper_18.pdf",
+      "sha256": "891a77e6164ab3cb7df27412ff2b86a59a5b6231f3fb8684884ac8d9a7ffcd40",
+      "source_urls_in_note": [
+        "https://doi.org/10.1109/TSE.2024.3361661",
+        "https://arxiv.org/abs/2301.02496"
+      ],
+      "independent_replication": false
+    },
+    {
+      "id": "19",
+      "paper_id": "doi:10.1145/3708821.3733870",
+      "title": "Generalized Adversarial Code-Suggestions: Exploiting Contexts of LLM-based Code-Completion",
+      "formal_url": "https://publikationen.bibliothek.kit.edu/1000186549",
+      "reading_scope": "targeted_fulltext_reading_not_all_appendices",
+      "note": "core/paper_19.md",
+      "source_pdf": "sources/paper_19.pdf",
+      "sha256": "b575bcc91d8f0e10641918edacdbfc5a8e24375bba8f511081370ab5d3f8ffdf",
+      "source_urls_in_note": [
+        "https://publikationen.bibliothek.kit.edu/1000186549",
+        "https://intellisec.de/pubs/2025-asiaccs.pdf"
+      ],
+      "independent_replication": false
+    },
+    {
+      "id": "20",
+      "paper_id": "doi:10.1109/SP54263.2024.00046",
+      "title": "Poisoned ChatGPT Finds Work for Idle Hands: Exploring Developers' Coding Practices with Insecure Suggestions from Poisoned AI Models",
+      "formal_url": "https://doi.org/10.1109/SP54263.2024.00046",
+      "reading_scope": "targeted_fulltext_reading_not_all_appendices",
+      "note": "core/paper_20.md",
+      "source_pdf": "sources/paper_20.pdf",
+      "sha256": "442f0527cc44f6b7a31e85311ffe0e2ae64ecf74aebeb6d1365e579df970280f",
+      "source_urls_in_note": [
+        "https://doi.org/10.1109/SP54263.2024.00046",
+        "https://arxiv.org/abs/2312.06227"
+      ],
+      "independent_replication": false
+    }
+  ]
+}

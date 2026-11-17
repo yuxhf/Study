@@ -1,0 +1,2022 @@
+[
+  {
+    "id": "01",
+    "title": "Security Weaknesses of Copilot-Generated Code in GitHub Projects: An Empirical Study",
+    "doi": "10.1145/3716848",
+    "url": "https://doi.org/10.1145/3716848",
+    "original_record": "- 作者：Yujia Fu; Peng Liang; Amjed Tahir; Zengyang Li; Mojtaba Shahin; Jiaxin Yu; Jinfu Chen。\n- 发表：ACM Transactions on Software Engineering and Methodology (TOSEM)，2025；**CCF 期刊 A**。\n- 书目位置：34(8), Article 218, 1–34。\n- DOI：10.1145/3716848；[正式出版/会议或机构核验链接](https://doi.org/10.1145/3716848)。\n- 定位：实证/缺陷基线；优先级：必读。",
+    "crossref": {
+      "title": [
+        "Security Weaknesses of Copilot-Generated Code in GitHub Projects: An Empirical Study"
+      ],
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0009-0001-3510-8930",
+          "authenticated-orcid": false,
+          "given": "Yujia",
+          "family": "Fu",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "School of Computer Science, Wuhan University, Wuhan, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-2056-5346",
+          "authenticated-orcid": false,
+          "given": "Peng",
+          "family": "Liang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Computer Science, Wuhan University, Wuhan, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-9454-1366",
+          "authenticated-orcid": false,
+          "given": "Amjed",
+          "family": "Tahir",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Massey University, Palmerston North, New Zealand"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-7258-993X",
+          "authenticated-orcid": false,
+          "given": "Zengyang",
+          "family": "Li",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Computer Science, Central China Normal University, Wuhan, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-9081-1354",
+          "authenticated-orcid": false,
+          "given": "Mojtaba",
+          "family": "Shahin",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "RMIT University, Melbourne, Australia"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0005-7017-5804",
+          "authenticated-orcid": false,
+          "given": "Jiaxin",
+          "family": "Yu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Computer Science, Wuhan University, Wuhan, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-7410-9146",
+          "authenticated-orcid": false,
+          "given": "Jinfu",
+          "family": "Chen",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Computer Science, Wuhan University, Wuhan, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "ACM Transactions on Software Engineering and Methodology"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2025,
+            10,
+            6
+          ]
+        ]
+      },
+      "page": "1-34",
+      "volume": "34",
+      "issue": "8",
+      "article-number": null,
+      "URL": "https://doi.org/10.1145/3716848",
+      "type": "journal-article"
+    },
+    "crossref_endpoint": "https://api.crossref.org/works/10.1145%2F3716848"
+  },
+  {
+    "id": "02",
+    "title": "Rethinking the Evaluation of Secure Code Generation",
+    "doi": "10.1145/3744916.3773217",
+    "url": "https://conf.researchr.org/details/icse-2026/icse-2026-research-track/175/Rethinking-the-Evaluation-of-Secure-Code-Generation",
+    "original_record": "- 作者：Shih-Chieh Dai; Jun Xu; Guanhong Tao。\n- 发表：IEEE/ACM 48th International Conference on Software Engineering (ICSE), Research Track，2026；**CCF 会议 A**。\n- 书目位置：13 pages; DOI 记录；正式起止页待补。\n- DOI：10.1145/3744916.3773217；[正式出版/会议或机构核验链接](https://conf.researchr.org/details/icse-2026/icse-2026-research-track/175/Rethinking-the-Evaluation-of-Secure-Code-Generation)。\n- 定位：评测口径/误报漏报；优先级：必读。",
+    "crossref": {
+      "title": [
+        "Rethinking the Evaluation of Secure Code Generation"
+      ],
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-5439-3917",
+          "authenticated-orcid": false,
+          "given": "Shih-Chieh",
+          "family": "Dai",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "The University of Utah, Salt Lake City, Utah, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0002-8128-5062",
+          "authenticated-orcid": false,
+          "given": "Jun",
+          "family": "Xu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of Utah, Salt Lake City, Utah, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-4701-1327",
+          "authenticated-orcid": false,
+          "given": "Guanhong",
+          "family": "Tao",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of Utah, Salt Lake City, Utah, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Proceedings of the 2026 IEEE/ACM 48th International Conference on Software Engineering"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            4,
+            12
+          ]
+        ]
+      },
+      "page": "336-348",
+      "volume": null,
+      "issue": null,
+      "article-number": null,
+      "URL": "https://doi.org/10.1145/3744916.3773217",
+      "type": "proceedings-article"
+    },
+    "crossref_endpoint": "https://api.crossref.org/works/10.1145%2F3744916.3773217"
+  },
+  {
+    "id": "03",
+    "title": "Can You Really Trust Code Copilot? Evaluating Large Language Models from a Code Security Perspective",
+    "doi": "10.18653/v1/2025.acl-long.849",
+    "url": "https://aclanthology.org/2025.acl-long.849/",
+    "original_record": "- 作者：Yutao Mou; Xiao Deng; Yuxiao Luo; Shikun Zhang; Wei Ye。\n- 发表：Proceedings of ACL 2025, Volume 1: Long Papers，2025；**CCF 会议 A**。\n- 书目位置：17349–17369。\n- DOI：10.18653/v1/2025.acl-long.849；[正式出版/会议或机构核验链接](https://aclanthology.org/2025.acl-long.849/)。\n- 定位：综合评测/漏洞判别；优先级：必读。",
+    "crossref": {
+      "title": [
+        "Can You Really Trust Code Copilot? Evaluating Large Language Models from a Code Security Perspective"
+      ],
+      "author": [
+        {
+          "given": "Yutao",
+          "family": "Mou",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Xiao",
+          "family": "Deng",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Yuxiao",
+          "family": "Luo",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Shikun",
+          "family": "Zhang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Wei",
+          "family": "Ye",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2025
+          ]
+        ]
+      },
+      "page": "17349-17369",
+      "volume": null,
+      "issue": null,
+      "article-number": null,
+      "URL": "https://doi.org/10.18653/v1/2025.acl-long.849",
+      "type": "proceedings-article"
+    },
+    "crossref_endpoint": "https://api.crossref.org/works/10.18653%2Fv1%2F2025.acl-long.849"
+  },
+  {
+    "id": "04",
+    "title": "SecCoder: Towards Generalizable and Robust Secure Code Generation",
+    "doi": "10.18653/v1/2024.emnlp-main.806",
+    "url": "https://aclanthology.org/2024.emnlp-main.806/",
+    "original_record": "- 作者：Boyu Zhang; Tianyu Du; Junkai Tong; Xuhong Zhang; Kingsum Chow; Sheng Cheng; Xun Wang; Jianwei Yin。\n- 发表：Proceedings of EMNLP 2024, Main Conference，2024；**CCF 会议 B**。\n- 书目位置：14557–14571。\n- DOI：10.18653/v1/2024.emnlp-main.806；[正式出版/会议或机构核验链接](https://aclanthology.org/2024.emnlp-main.806/)。\n- 定位：检索增强防护；优先级：必读。",
+    "crossref": {
+      "title": [
+        "SecCoder: Towards Generalizable and Robust Secure Code Generation"
+      ],
+      "author": [
+        {
+          "given": "Boyu",
+          "family": "Zhang",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Tianyu",
+          "family": "Du",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Junkai",
+          "family": "Tong",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Xuhong",
+          "family": "Zhang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Kingsum",
+          "family": "Chow",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Sheng",
+          "family": "Cheng",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Xun",
+          "family": "Wang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jianwei",
+          "family": "Yin",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2024
+          ]
+        ]
+      },
+      "page": "14557-14571",
+      "volume": null,
+      "issue": null,
+      "article-number": null,
+      "URL": "https://doi.org/10.18653/v1/2024.emnlp-main.806",
+      "type": "proceedings-article"
+    },
+    "crossref_endpoint": "https://api.crossref.org/works/10.18653%2Fv1%2F2024.emnlp-main.806"
+  },
+  {
+    "id": "05",
+    "title": "Teaching an Old LLM Secure Coding: Localized Preference Optimization on Distilled Preferences",
+    "doi": "10.18653/v1/2025.acl-long.1263",
+    "url": "https://aclanthology.org/2025.acl-long.1263/",
+    "original_record": "- 作者：Mohammad Saqib Hasan; Saikat Chakraborty; Santu Karmaker; Niranjan Balasubramanian。\n- 发表：Proceedings of ACL 2025, Volume 1: Long Papers，2025；**CCF 会议 A**。\n- 书目位置：26039–26057。\n- DOI：10.18653/v1/2025.acl-long.1263；[正式出版/会议或机构核验链接](https://aclanthology.org/2025.acl-long.1263/)。\n- 定位：模型对齐防护；优先级：必读。",
+    "crossref": {
+      "title": [
+        "Teaching an Old LLM Secure Coding: Localized Preference Optimization on Distilled Preferences"
+      ],
+      "author": [
+        {
+          "given": "Mohammad Saqib",
+          "family": "Hasan",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Saikat",
+          "family": "Chakraborty",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Santu",
+          "family": "Karmaker",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Niranjan",
+          "family": "Balasubramanian",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2025
+          ]
+        ]
+      },
+      "page": "26039-26057",
+      "volume": null,
+      "issue": null,
+      "article-number": null,
+      "URL": "https://doi.org/10.18653/v1/2025.acl-long.1263",
+      "type": "proceedings-article"
+    },
+    "crossref_endpoint": "https://api.crossref.org/works/10.18653%2Fv1%2F2025.acl-long.1263"
+  },
+  {
+    "id": "06",
+    "title": "SecureReviewer: Enhancing Large Language Models for Secure Code Review through Secure-Aware Fine-Tuning",
+    "doi": "10.1145/3744916.3773191",
+    "url": "https://conf.researchr.org/details/icse-2026/icse-2026-research-track/149/SecureReviewer-Enhancing-Large-Language-Models-for-Secure-Code-Review-through-Secure",
+    "original_record": "- 作者：Fang Liu; Simiao Liu; Yinghao Zhu; Xiaoli Lian; Li Zhang。\n- 发表：IEEE/ACM 48th International Conference on Software Engineering (ICSE), Research Track，2026；**CCF 会议 A**。\n- 书目位置：310–322。\n- DOI：10.1145/3744916.3773191；[正式出版/会议或机构核验链接](https://conf.researchr.org/details/icse-2026/icse-2026-research-track/149/SecureReviewer-Enhancing-Large-Language-Models-for-Secure-Code-Review-through-Secure)。\n- 定位：安全代码审查/证据检索；优先级：必读。",
+    "crossref": {
+      "title": [
+        "SecureReviewer: Enhancing Large Language Models for Secure Code Review through Secure-Aware Fine-Tuning"
+      ],
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-3905-8133",
+          "authenticated-orcid": false,
+          "given": "Fang",
+          "family": "Liu",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "State Key Laboratory of Complex &amp; Critical Software Environment, School of Computer Science and Engineering, Beihang University, Beijing, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0006-6095-3286",
+          "authenticated-orcid": false,
+          "given": "Simiao",
+          "family": "Liu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "State Key Laboratory of Complex &amp; Critical Software Environment, School of Computer Science and Engineering, Beihang University, Beijing, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-2640-6477",
+          "authenticated-orcid": false,
+          "given": "Yinghao",
+          "family": "Zhu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "The University of Hong Kong, Hong Kong, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-6100-7068",
+          "authenticated-orcid": false,
+          "given": "Xiaoli",
+          "family": "Lian",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "State Key Laboratory of Complex &amp; Critical Software Environment, School of Computer Science and Engineering, Beihang University, Beijing, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-2258-5893",
+          "authenticated-orcid": false,
+          "given": "Li",
+          "family": "Zhang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "State Key Laboratory of Complex &amp; Critical Software Environment, School of Computer Science and Engineering, Beihang University, Beijing, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Proceedings of the 2026 IEEE/ACM 48th International Conference on Software Engineering"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            4,
+            12
+          ]
+        ]
+      },
+      "page": "310-322",
+      "volume": null,
+      "issue": null,
+      "article-number": null,
+      "URL": "https://doi.org/10.1145/3744916.3773191",
+      "type": "proceedings-article"
+    },
+    "crossref_endpoint": "https://api.crossref.org/works/10.1145%2F3744916.3773191"
+  },
+  {
+    "id": "07",
+    "title": "Repairing LLM Executions for Secure Automatic Programming",
+    "doi": "10.1145/3744916.3773210",
+    "url": "https://conf.researchr.org/details/icse-2026/icse-2026-research-track/168/Repairing-LLM-Executions-for-Secure-Automatic-Programming",
+    "original_record": "- 作者：Ali El Husseini; Yacine Izza; Blaise Genest; Abhik Roychoudhury。\n- 发表：IEEE/ACM 48th International Conference on Software Engineering (ICSE), Research Track，2026；**CCF 会议 A**。\n- 书目位置：12 pages; DOI 记录；正式起止页待补。\n- DOI：10.1145/3744916.3773210；[正式出版/会议或机构核验链接](https://conf.researchr.org/details/icse-2026/icse-2026-research-track/168/Repairing-LLM-Executions-for-Secure-Automatic-Programming)。\n- 定位：推理过程修复；优先级：必读。",
+    "crossref": {
+      "title": [
+        "Repairing LLM Executions for Secure Automatic Programming"
+      ],
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0009-0000-7960-455X",
+          "authenticated-orcid": false,
+          "given": "Ali",
+          "family": "El Husseini",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "National University of Singapore, Singapore, Singapore and CNRS@CREATE, Singapore, Singapore"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-7774-1945",
+          "authenticated-orcid": false,
+          "given": "Yacine",
+          "family": "Izza",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "National University of Singapore, Singapore, Singapore"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-5758-1876",
+          "authenticated-orcid": false,
+          "given": "Blaise",
+          "family": "Genest",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "IPAL, CNRS &amp; CNRS@CREATE, Singapore, Singapore"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-7127-1137",
+          "authenticated-orcid": false,
+          "given": "Abhik",
+          "family": "Roychoudhury",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "National University of Singapore, Singapore, Singapore"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Proceedings of the 2026 IEEE/ACM 48th International Conference on Software Engineering"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            4,
+            12
+          ]
+        ]
+      },
+      "page": "818-829",
+      "volume": null,
+      "issue": null,
+      "article-number": null,
+      "URL": "https://doi.org/10.1145/3744916.3773210",
+      "type": "proceedings-article"
+    },
+    "crossref_endpoint": "https://api.crossref.org/works/10.1145%2F3744916.3773210"
+  },
+  {
+    "id": "08",
+    "title": "GoodVibe: Security-by-Vibe for LLM-Based Code Generation",
+    "doi": null,
+    "url": "https://www.usenix.org/conference/usenixsecurity26/presentation/thang",
+    "original_record": "- 作者：Maximilian Thang; Lichao Wu; Sasha Behrouzi; Mohamadreza Rostami; Jona te Lintelo; Stjepan Picek; Ahmad-Reza Sadeghi。\n- 发表：35th USENIX Security Symposium，2026；**CCF 会议 A**。\n- 书目位置：4425–4442。\n- DOI：未在官方条目列出；正式 URL 可引用；[正式出版/会议或机构核验链接](https://www.usenix.org/conference/usenixsecurity26/presentation/thang)。\n- 定位：轻量模型防护；优先级：必读。"
+  },
+  {
+    "id": "09",
+    "title": "Give LLMs a Security Course: Securing Retrieval-Augmented Code Generation via Knowledge Injection",
+    "doi": "10.1145/3719027.3765049",
+    "url": "https://doi.org/10.1145/3719027.3765049",
+    "original_record": "- 作者：Bo Lin; Shangwen Wang; Yihao Qin; Liqian Chen; Xiaoguang Mao。\n- 发表：Proceedings of ACM SIGSAC Conference on Computer and Communications Security (CCS)，2025；**CCF 会议 A**。\n- 书目位置：3356–3370。\n- DOI：10.1145/3719027.3765049；[正式出版/会议或机构核验链接](https://doi.org/10.1145/3719027.3765049)。\n- 定位：RAG安全知识注入；优先级：必读。",
+    "crossref": {
+      "title": [
+        "Give LLMs a Security Course: Securing Retrieval-Augmented Code Generation via Knowledge Injection"
+      ],
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0001-5905-4677",
+          "authenticated-orcid": false,
+          "given": "Bo",
+          "family": "Lin",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "National University of Defense Technology, Changsha, China and State Key Laboratory of Complex &amp; Critical Software Environment, Changsha, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-1469-2063",
+          "authenticated-orcid": false,
+          "given": "Shangwen",
+          "family": "Wang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "National University of Defense Technology, Changsha, China and State Key Laboratory of Complex &amp; Critical Software Environment, ChangSha, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0001-3440-9520",
+          "authenticated-orcid": false,
+          "given": "Yihao",
+          "family": "Qin",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "National University of Defense Technology, Changsha, China and State Key Laboratory of Complex &amp; Critical Software Environment, ChangSha, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-8084-8009",
+          "authenticated-orcid": false,
+          "given": "Liqian",
+          "family": "Chen",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "National University of Defense Technology, Changsha, China and State Key Laboratory of Complex &amp; Critical Software Environment, Changsha, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-4204-7424",
+          "authenticated-orcid": false,
+          "given": "Xiaoguang",
+          "family": "Mao",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "National University of Defense Technology, Changsha, China and State Key Laboratory of Complex &amp; Critical Software Environment, Changsha, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Proceedings of the 2025 ACM SIGSAC Conference on Computer and Communications Security"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2025,
+            11,
+            19
+          ]
+        ]
+      },
+      "page": "3356-3370",
+      "volume": null,
+      "issue": null,
+      "article-number": null,
+      "URL": "https://doi.org/10.1145/3719027.3765049",
+      "type": "proceedings-article"
+    },
+    "crossref_endpoint": "https://api.crossref.org/works/10.1145%2F3719027.3765049"
+  },
+  {
+    "id": "10",
+    "title": "Securing Retrieval-Augmented Code Generation via Contextual Knowledge Injection: A Case for Embedded IoT Applications",
+    "doi": null,
+    "url": "https://www.usenix.org/conference/usenixsecurity26/presentation/sun-tong",
+    "original_record": "- 作者：Tong Sun; Jingyi Su; Yi Gao; Wei Dong。\n- 发表：35th USENIX Security Symposium，2026；**CCF 会议 A**。\n- 书目位置：771–790。\n- DOI：未在官方条目列出；正式 URL 可引用；[正式出版/会议或机构核验链接](https://www.usenix.org/conference/usenixsecurity26/presentation/sun-tong)。\n- 定位：版本感知安全检索；优先级：必读。"
+  },
+  {
+    "id": "11",
+    "title": "Beyond Functional Correctness: Exploring Hallucinations in LLM-Generated Code",
+    "doi": "10.1109/TSE.2026.3657432",
+    "url": "https://ieeexplore.ieee.org/abstract/document/11361549",
+    "original_record": "- 作者：Fang Liu; Yang Liu; Lin Shi; Zhen Yang; Li Zhang; Xiaoli Lian; Zhongqi Li; Yuchi Ma。\n- 发表：IEEE Transactions on Software Engineering (TSE)，2026；**CCF 期刊 A**。\n- 书目位置：52(3): 1037–1055。\n- DOI：10.1109/TSE.2026.3657432；[正式出版/会议或机构核验链接](https://ieeexplore.ieee.org/abstract/document/11361549)。\n- 定位：代码幻觉分类；优先级：必读。",
+    "crossref": {
+      "title": [
+        "Beyond Functional Correctness: Exploring Hallucinations in LLM-Generated Code"
+      ],
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-3905-8133",
+          "authenticated-orcid": false,
+          "given": "Fang",
+          "family": "Liu",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "State Key Laboratory of Complex &#x0026; Critical Software Environment (SKLCCSE), School of Computer Science and Engineering, Beihang University, Beijing, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0001-8649-7147",
+          "authenticated-orcid": false,
+          "given": "Yang",
+          "family": "Liu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "State Key Laboratory of Complex &#x0026; Critical Software Environment (SKLCCSE), School of Computer Science and Engineering, Beihang University, Beijing, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-1476-7213",
+          "authenticated-orcid": false,
+          "given": "Lin",
+          "family": "Shi",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Software, Beihang University, Beijing, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-0670-4538",
+          "authenticated-orcid": false,
+          "given": "Zhen",
+          "family": "Yang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Computer Science and Technology, Shandong University, Qingdao, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-2258-5893",
+          "authenticated-orcid": false,
+          "given": "Li",
+          "family": "Zhang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "State Key Laboratory of Complex &#x0026; Critical Software Environment (SKLCCSE), School of Computer Science and Engineering, Beihang University, Beijing, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-6100-7068",
+          "authenticated-orcid": false,
+          "given": "Xiaoli",
+          "family": "Lian",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "State Key Laboratory of Complex &#x0026; Critical Software Environment (SKLCCSE), School of Computer Science and Engineering, Beihang University, Beijing, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-4864-9592",
+          "authenticated-orcid": false,
+          "given": "Zhongqi",
+          "family": "Li",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Huawei Cloud Computing Technologies Company Ltd., Shenzhen, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0002-3304-1389",
+          "authenticated-orcid": false,
+          "given": "Yuchi",
+          "family": "Ma",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Huawei Cloud Computing Technologies Company Ltd., Shenzhen, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "IEEE Transactions on Software Engineering"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            3
+          ]
+        ]
+      },
+      "page": "1037-1055",
+      "volume": "52",
+      "issue": "3",
+      "article-number": null,
+      "URL": "https://doi.org/10.1109/tse.2026.3657432",
+      "type": "journal-article"
+    },
+    "crossref_endpoint": "https://api.crossref.org/works/10.1109%2FTSE.2026.3657432"
+  },
+  {
+    "id": "12",
+    "title": "We Have a Package for You! A Comprehensive Analysis of Package Hallucinations by Code Generating LLMs",
+    "doi": null,
+    "url": "https://www.usenix.org/conference/usenixsecurity25/presentation/spracklen",
+    "original_record": "- 作者：Joseph Spracklen; Raveen Wijewickrama; A H M Nazmus Sakib; Anindya Maiti; Bimal Viswanath; Murtuza Jadliwala。\n- 发表：34th USENIX Security Symposium，2025；**CCF 会议 A**。\n- 书目位置：3687–3706。\n- DOI：未在官方条目列出；正式 URL 可引用；[正式出版/会议或机构核验链接](https://www.usenix.org/conference/usenixsecurity25/presentation/spracklen)。\n- 定位：依赖包供应链风险；优先级：必读。"
+  },
+  {
+    "id": "13",
+    "title": "HFuzzer: Testing Large Language Models for Package Hallucinations via Phrase-based Fuzzing",
+    "doi": "10.1109/ASE63991.2025.00225",
+    "url": "https://doi.org/10.1109/ASE63991.2025.00225",
+    "original_record": "- 作者：Yukai Zhao; Menghan Wu; Xing Hu; Xin Xia。\n- 发表：IEEE/ACM 40th International Conference on Automated Software Engineering (ASE), Research Papers，2025；**CCF 会议 A**。\n- 书目位置：2746–2758。\n- DOI：10.1109/ASE63991.2025.00225；[正式出版/会议或机构核验链接](https://doi.org/10.1109/ASE63991.2025.00225)。\n- 定位：供应链风险自动测试；优先级：必读。",
+    "crossref": {
+      "title": [
+        "HFuzzer: Testing Large Language Models for Package Hallucinations via Phrase-based Fuzzing"
+      ],
+      "author": [
+        {
+          "given": "Yukai",
+          "family": "Zhao",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Zhejiang University,School of Software Technology,Ningbo,China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Menghan",
+          "family": "Wu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Zhejiang University,The State Key Laboratory of Blockchain and Data Security,Hangzhou,China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Xing",
+          "family": "Hu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Zhejiang University,The State Key Laboratory of Blockchain and Data Security,Hangzhou,China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Xin",
+          "family": "Xia",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Zhejiang University,The State Key Laboratory of Blockchain and Data Security,Hangzhou,China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "2025 40th IEEE/ACM International Conference on Automated Software Engineering (ASE)"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2025,
+            11,
+            16
+          ]
+        ]
+      },
+      "page": "2746-2758",
+      "volume": null,
+      "issue": null,
+      "article-number": null,
+      "URL": "https://doi.org/10.1109/ase63991.2025.00225",
+      "type": "proceedings-article"
+    },
+    "crossref_endpoint": "https://api.crossref.org/works/10.1109%2FASE63991.2025.00225"
+  },
+  {
+    "id": "14",
+    "title": "Security Vulnerabilities in AI-Generated Code: A Large-Scale Analysis of Public GitHub Repositories",
+    "doi": "10.1007/978-981-95-3537-8_9",
+    "url": "https://doi.org/10.1007/978-981-95-3537-8_9",
+    "original_record": "- 作者：Maximilian Schreiber; Pascal Tippe。\n- 发表：International Conference on Information and Communications Security (ICICS)，2025；**CCF 会议 C**。\n- 书目位置：LNCS 16219: 153–172。\n- DOI：10.1007/978-981-95-3537-8_9；[正式出版/会议或机构核验链接](https://doi.org/10.1007/978-981-95-3537-8_9)。\n- 定位：真实仓库的静态扫描；优先级：必读。",
+    "crossref": {
+      "title": [
+        "Security Vulnerabilities in AI-Generated Code: A Large-Scale Analysis of Public GitHub Repositories"
+      ],
+      "author": [
+        {
+          "given": "Maximilian",
+          "family": "Schreiber",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Pascal",
+          "family": "Tippe",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Lecture Notes in Computer Science",
+        "Information and Communications Security"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2025,
+            10,
+            20
+          ]
+        ]
+      },
+      "page": "153-172",
+      "volume": null,
+      "issue": null,
+      "article-number": null,
+      "URL": "https://doi.org/10.1007/978-981-95-3537-8_9",
+      "type": "book-chapter"
+    },
+    "crossref_endpoint": "https://api.crossref.org/works/10.1007%2F978-981-95-3537-8_9"
+  },
+  {
+    "id": "15",
+    "title": "Insecure Coding Preferences in Long-Term Memory: Security Risks for LLM-based Code Generation",
+    "doi": "10.1145/3832170",
+    "url": "https://conf.researchr.org/details/issta-2026/issta-2026-research-papers/79/Insecure-Coding-Preferences-in-Long-Term-Memory-Security-Risks-for-LLM-based-Code-Ge",
+    "original_record": "- 作者：Yuchen Chen; Wei Cheng; Yuan Xiao; Zhou Yang; Weifeng Sun; Chunrong Fang; Xiang Chen; Baowen Xu; David Lo; Zhenyu Chen。\n- 发表：ISSTA 2026 Research Papers; published in Proceedings of the ACM on Software Engineering (PACMSE)，2026；**CCF 会议 A（ISSTA正式研究论文）**。\n- 书目位置：DOI 10.1145/3832170；PACMSE 卷期/文章号待出版社二次核对。\n- DOI：10.1145/3832170；[正式出版/会议或机构核验链接](https://conf.researchr.org/details/issta-2026/issta-2026-research-papers/79/Insecure-Coding-Preferences-in-Long-Term-Memory-Security-Risks-for-LLM-based-Code-Ge)。\n- 定位：长期记忆污染/生成漏洞；优先级：推荐。",
+    "crossref": {
+      "title": [
+        "Insecure Coding Preferences in Long-Term Memory: Security Risks for LLM-Based Code Generation"
+      ],
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-3380-5564",
+          "authenticated-orcid": false,
+          "given": "Yuchen",
+          "family": "Chen",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Nanjing University, Nanjing, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0007-9418-5753",
+          "authenticated-orcid": false,
+          "given": "Wei",
+          "family": "Cheng",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Nanjing University of Aeronautics and Astronautics, Nanjing, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0009-3166-8007",
+          "authenticated-orcid": false,
+          "given": "Yuan",
+          "family": "Xiao",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Nanjing University, Nanjing, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-5938-1918",
+          "authenticated-orcid": false,
+          "given": "Zhou",
+          "family": "Yang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of Alberta, Edmonton, Canada"
+            },
+            {
+              "name": "Alberta Machine Intelligence Institute, Edmonton, Canada"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-6013-1369",
+          "authenticated-orcid": false,
+          "given": "Weifeng",
+          "family": "Sun",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Singapore Management University, Singapore, Singapore"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-9930-7111",
+          "authenticated-orcid": false,
+          "given": "Chunrong",
+          "family": "Fang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Nanjing University, Nanjing, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-1180-3891",
+          "authenticated-orcid": false,
+          "given": "Xiang",
+          "family": "Chen",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Nantong University, Nantong, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-7743-1296",
+          "authenticated-orcid": false,
+          "given": "Baowen",
+          "family": "Xu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Nanjing University, Nanjing, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-4367-7201",
+          "authenticated-orcid": false,
+          "given": "David",
+          "family": "Lo",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Singapore Management University, Singapore, Singapore"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-9592-7022",
+          "authenticated-orcid": false,
+          "given": "Zhenyu",
+          "family": "Chen",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Nanjing University, Nanjing, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Proceedings of the ACM on Software Engineering"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            1
+          ]
+        ]
+      },
+      "page": "1809-1831",
+      "volume": "3",
+      "issue": "ISSTA",
+      "article-number": null,
+      "URL": "https://doi.org/10.1145/3832170",
+      "type": "journal-article"
+    },
+    "crossref_endpoint": "https://api.crossref.org/works/10.1145%2F3832170"
+  },
+  {
+    "id": "16",
+    "title": "TrojanPuzzle: Covertly Poisoning Code-Suggestion Models",
+    "doi": "10.1109/SP54263.2024.00140",
+    "url": "https://ieeexplore.ieee.org/abstract/document/10646865",
+    "original_record": "- 作者：Hojjat Aghakhani; Wei Dai; Andre Manoel; Xavier Fernandes; Anant Kharkar; Christopher Kruegel; Giovanni Vigna; David Evans; Benjamin Zorn; Robert Sim。\n- 发表：IEEE Symposium on Security and Privacy (S&P)，2024；**CCF 会议 A**。\n- 书目位置：1122–1140。\n- DOI：10.1109/SP54263.2024.00140；[正式出版/会议或机构核验链接](https://ieeexplore.ieee.org/abstract/document/10646865)。\n- 定位：模型数据投毒；优先级：必读。",
+    "crossref": {
+      "title": [
+        "TrojanPuzzle: Covertly Poisoning Code-Suggestion Models"
+      ],
+      "author": [
+        {
+          "given": "Hojjat",
+          "family": "Aghakhani",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "University of California,Santa Barbara"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Wei",
+          "family": "Dai",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Microsoft Corporation"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Andre",
+          "family": "Manoel",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Microsoft Corporation"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Xavier",
+          "family": "Fernandes",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Microsoft Corporation"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Anant",
+          "family": "Kharkar",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Microsoft Corporation"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Christopher",
+          "family": "Kruegel",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of California,Santa Barbara"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Giovanni",
+          "family": "Vigna",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of California,Santa Barbara"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "David",
+          "family": "Evans",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of Virginia"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Ben",
+          "family": "Zorn",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Microsoft Corporation"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Robert",
+          "family": "Sim",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Microsoft Corporation"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "2024 IEEE Symposium on Security and Privacy (SP)"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2024,
+            5,
+            19
+          ]
+        ]
+      },
+      "page": "1122-1140",
+      "volume": null,
+      "issue": null,
+      "article-number": null,
+      "URL": "https://doi.org/10.1109/sp54263.2024.00140",
+      "type": "proceedings-article"
+    },
+    "crossref_endpoint": "https://api.crossref.org/works/10.1109%2FSP54263.2024.00140"
+  },
+  {
+    "id": "17",
+    "title": "An LLM-Assisted Easy-to-Trigger Backdoor Attack on Code Completion Models: Injecting Disguised Vulnerabilities against Strong Detection",
+    "doi": null,
+    "url": "https://www.usenix.org/conference/usenixsecurity24/presentation/yan",
+    "original_record": "- 作者：Shenao Yan; Shen Wang; Yue Duan; Hanbin Hong; Kiho Lee; Doowon Kim; Yuan Hong。\n- 发表：33rd USENIX Security Symposium，2024；**CCF 会议 A**。\n- 书目位置：1795–1812。\n- DOI：未在官方条目列出；正式 URL 可引用；[正式出版/会议或机构核验链接](https://www.usenix.org/conference/usenixsecurity24/presentation/yan)。\n- 定位：后门触发/检测规避；优先级：必读。"
+  },
+  {
+    "id": "18",
+    "title": "Stealthy Backdoor Attack for Code Models",
+    "doi": "10.1109/TSE.2024.3361661",
+    "url": "https://doi.org/10.1109/TSE.2024.3361661",
+    "original_record": "- 作者：Zhou Yang; Bowen Xu; Jie M. Zhang; Hong Jin Kang; Jieke Shi; Junda He; David Lo。\n- 发表：IEEE Transactions on Software Engineering (TSE)，2024；**CCF 期刊 A**。\n- 书目位置：50(4): 721–741。\n- DOI：10.1109/TSE.2024.3361661；[正式出版/会议或机构核验链接](https://doi.org/10.1109/TSE.2024.3361661)。\n- 定位：代码模型隐蔽后门；优先级：推荐。",
+    "crossref": {
+      "title": [
+        "Stealthy Backdoor Attack for Code Models"
+      ],
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0001-5938-1918",
+          "authenticated-orcid": false,
+          "given": "Zhou",
+          "family": "Yang",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "School of Computing and Information Systems, Singapore Management University, Singapore, Singapore"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-1006-8493",
+          "authenticated-orcid": false,
+          "given": "Bowen",
+          "family": "Xu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "North Carolina State University, Raleigh, NC, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-0481-7264",
+          "authenticated-orcid": false,
+          "given": "Jie M.",
+          "family": "Zhang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "King&#x2019;s College London, London, U.K."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-7335-7295",
+          "authenticated-orcid": false,
+          "given": "Hong Jin",
+          "family": "Kang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of California, Los Angeles, CA, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-0799-5018",
+          "authenticated-orcid": false,
+          "given": "Jieke",
+          "family": "Shi",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Computing and Information Systems, Singapore Management University, Singapore, Singapore"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-3370-8585",
+          "authenticated-orcid": false,
+          "given": "Junda",
+          "family": "He",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Computing and Information Systems, Singapore Management University, Singapore, Singapore"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-4367-7201",
+          "authenticated-orcid": false,
+          "given": "David",
+          "family": "Lo",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Computing and Information Systems, Singapore Management University, Singapore, Singapore"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "IEEE Transactions on Software Engineering"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2024,
+            4
+          ]
+        ]
+      },
+      "page": "721-741",
+      "volume": "50",
+      "issue": "4",
+      "article-number": null,
+      "URL": "https://doi.org/10.1109/tse.2024.3361661",
+      "type": "journal-article"
+    },
+    "crossref_endpoint": "https://api.crossref.org/works/10.1109%2FTSE.2024.3361661"
+  },
+  {
+    "id": "19",
+    "title": "Generalized Adversarial Code-Suggestions: Exploiting Contexts of LLM-based Code-Completion",
+    "doi": "10.1145/3708821.3733870",
+    "url": "https://publikationen.bibliothek.kit.edu/1000186549",
+    "original_record": "- 作者：Karl Rubel; Maximilian Noppel; Christian Wressnegger。\n- 发表：Proceedings of ACM Asia Conference on Computer and Communications Security (AsiaCCS)，2025；**CCF 会议 C**。\n- 书目位置：358–374。\n- DOI：10.1145/3708821.3733870；[正式出版/会议或机构核验链接](https://publikationen.bibliothek.kit.edu/1000186549)。\n- 定位：上下文触发/诱导漏洞；优先级：推荐。",
+    "crossref": {
+      "title": [
+        "Generalized Adversarial Code-Suggestions: Exploiting Contexts of LLM-based Code-Completion"
+      ],
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0009-0005-0749-4626",
+          "authenticated-orcid": false,
+          "given": "Karl",
+          "family": "Rubel",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "KASTEL Security Research Labs, Karlsruhe Institute of Technology, Karlsruhe, Germany"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-1930-8323",
+          "authenticated-orcid": false,
+          "given": "Maximilian",
+          "family": "Noppel",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "KASTEL Security Research Labs, Karlsruhe Institute of Technology, Karlsruhe, Germany"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0007-1493-9552",
+          "authenticated-orcid": false,
+          "given": "Christian",
+          "family": "Wressnegger",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "KASTEL Security Research Labs, Karlsruhe Institute of Technology, Karlsruhe, Germany"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Proceedings of the 20th ACM Asia Conference on Computer and Communications Security"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            24
+          ]
+        ]
+      },
+      "page": "358-374",
+      "volume": null,
+      "issue": null,
+      "article-number": null,
+      "URL": "https://doi.org/10.1145/3708821.3733870",
+      "type": "proceedings-article"
+    },
+    "crossref_endpoint": "https://api.crossref.org/works/10.1145%2F3708821.3733870"
+  },
+  {
+    "id": "20",
+    "title": "Poisoned ChatGPT Finds Work for Idle Hands: Exploring Developers' Coding Practices with Insecure Suggestions from Poisoned AI Models",
+    "doi": "10.1109/SP54263.2024.00046",
+    "url": "https://doi.org/10.1109/SP54263.2024.00046",
+    "original_record": "- 作者：Sanghak Oh; Kiho Lee; Seonhye Park; Doowon Kim; Hyoungshick Kim。\n- 发表：IEEE Symposium on Security and Privacy (S&P)，2024；**CCF 会议 A**。\n- 书目位置：1141–1159。\n- DOI：10.1109/SP54263.2024.00046；[正式出版/会议或机构核验链接](https://doi.org/10.1109/SP54263.2024.00046)。\n- 定位：开发者行为/风险传播；优先级：推荐。",
+    "crossref": {
+      "title": [
+        "Poisoned ChatGPT Finds Work for Idle Hands: Exploring Developers’ Coding Practices with Insecure Suggestions from Poisoned AI Models"
+      ],
+      "author": [
+        {
+          "given": "Sanghak",
+          "family": "Oh",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Sungkyunkwan University,Department of Electrical and Computer Engineering,Republic of Korea"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Kiho",
+          "family": "Lee",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Sungkyunkwan University,Department of Electrical and Computer Engineering,Republic of Korea"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Seonhye",
+          "family": "Park",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Sungkyunkwan University,Department of Electrical and Computer Engineering,Republic of Korea"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Doowon",
+          "family": "Kim",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of Tennessee,Department of Electrical Engineering and Computer Science,USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Hyoungshick",
+          "family": "Kim",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Sungkyunkwan University,Department of Electrical and Computer Engineering,Republic of Korea"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "2024 IEEE Symposium on Security and Privacy (SP)"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2024,
+            5,
+            19
+          ]
+        ]
+      },
+      "page": "1141-1159",
+      "volume": null,
+      "issue": null,
+      "article-number": null,
+      "URL": "https://doi.org/10.1109/sp54263.2024.00046",
+      "type": "proceedings-article"
+    },
+    "crossref_endpoint": "https://api.crossref.org/works/10.1109%2FSP54263.2024.00046"
+  }
+]
