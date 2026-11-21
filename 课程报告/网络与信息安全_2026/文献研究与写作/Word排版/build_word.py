@@ -11,7 +11,7 @@ from docx.opc.constants import RELATIONSHIP_TYPE as RT
 
 ROOT=Path(__file__).resolve().parent
 REFERENCE=Path('C:/Users/19252/Downloads/2026_网络与信息安全_研究生课程报告指南及前沿选题.docx')
-OUT=ROOT/'1202621669_胡逢彬_网络与信息安全课程报告_审阅稿.docx'
+OUT=ROOT/'1202621669_胡逢彬_网络与信息安全课程报告_修订审阅稿.docx'
 source=(ROOT/'source.md').read_text(encoding='utf-8')
 title=source.splitlines()[0].lstrip('# ')
 body=source[source.index('## 摘要'):source.index('## 参考文献')]
