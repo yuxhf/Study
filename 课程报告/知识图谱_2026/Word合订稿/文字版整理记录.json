@@ -1,0 +1,33 @@
+{
+  "pages": 100,
+  "rendered_pages": 100,
+  "translation_images": 0,
+  "translation_tables": 0,
+  "remaining_report_tables": 4,
+  "remaining_report_images": 4,
+  "bytes": 356534,
+  "sha256": "89c37f2e978776b41d1f694e3f4abeef4400c05e0639e45819d7e532a2e74db7",
+  "contents_verified": [
+    "第一部分 课程报告正文\t3",
+    "摘要\t3",
+    "一 研究背景与问题定义\t4",
+    "二 文献范围与分析方法\t5",
+    "三 领域知识图谱构建 SAC-KG\t6",
+    "四 跨文档证据导航 KGP\t7",
+    "五 连通子图检索 G-Retriever\t9",
+    "六 社区级推理 FastToG\t10",
+    "七 图结构支持长期知识利用 HippoRAG 2\t12",
+    "八 五篇论文的横向比较\t13",
+    "九 个人研究设想 可追溯的多粒度证据检索\t15",
+    "十 结论\t19",
+    "参考文献\t20",
+    "附录A 统一术语\t20",
+    "附录B 阅读与引用定位\t21",
+    "第二部分 SAC-KG 文字译稿\t22",
+    "第三部分 KGP 文字译稿\t35",
+    "第四部分 G-Retriever 文字译稿\t55",
+    "第五部分 FastToG 文字译稿\t72",
+    "第六部分 HippoRAG 2 文字译稿\t83"
+  ],
+  "scope": "正文保留必要分析图表；五篇译稿省略公式图表英文原页及图内逐项对照；公式解释改为文字。"
+}
